@@ -1,0 +1,2297 @@
+# 3 2 norwegian
+1	Tilfeldig	tilfeldig	adj	adj	nøyt|ub|ent|pos	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# 97 12 norwegian
+1	Forresten	forresten	adv	adv	_	3	ADV	_	_
+2	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+3	stryk	stryke	verb	verb	imp	0	FINV	_	_
+4	det	det	pron	pron	nøyt|ent|pers|3	3	DOBJ	_	_
+5	-	$-	<strek>	<strek>	_	3	IK	_	_
+6	det	det	pron	pron	nøyt|ent|pers|3	7	FSUBJ	_	_
+7	kan	kunne	verb	verb	pres|<aux1/infinitiv>	3	KOORD	_	_
+8	oppsummeres	oppsummere	verb	verb	inf|pass	7	INFV	_	_
+9	i	i	prep	prep	_	8	ADV	_	_
+10	to	to	det	det	fl|kvant	11	DET	_	_
+11	ord	ord	subst	subst	appell|nøyt|ub|fl	9	PUTFYLL	_	_
+12	:	$:	clb	clb	<kolon>	3	IP	_	_
+
+# 5 4 norwegian
+1	Tilfeldig	tilfeldig	adj	adj	nøyt|ub|ent|pos	0	FRAG	_	_
+2	og	og	konj	konj	<ikke-clb>	3	KONJ	_	_
+3	fryktelig	fryktelig	adj	adj	nøyt|ub|ent|pos	1	KOORD	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# 89 23 norwegian
+1	Der	der	prep	prep	_	6	ADV	_	_
+2	du	du	pron	pron	ent|pers|hum|nom|2	6	SUBJ	_	_
+3	og	og	konj	konj	<ikke-clb>	5	KONJ	_	_
+4	noen	noen	det	det	fl|kvant	5	DET	_	_
+5	kompiser	kompis	subst	subst	appell|mask|ub|fl	2	KOORD	_	_
+6	jammer	jamme	verb	verb	pres	10	ADV	_	_
+7	i	i	prep	prep	<contok>	6	ADV	_	_
+8	vei	vei	subst	subst	appell|mask|ub|ent	7	PUTFYLL	_	_
+9	,	$,	<komma>	<komma>	<ikke-clb>	6	IK	_	_
+10	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+11	det	det	pron	pron	nøyt|ent|pers|3	10	FSUBJ	_	_
+12	nesten	nesten	adv	adv	_	13	ADV	_	_
+13	utålelig	utålelig	adj	adj	nøyt|ub|ent|pos	10	SPRED	_	_
+14	å	å	inf-merke	inf-merke	_	10	PSUBJ	_	_
+15	lytte	lytte	verb	verb	inf	14	INFV	_	_
+16	på	på	prep	prep	_	15	ADV	_	_
+17	det	det	pron	pron	nøyt|ent|pers|3	16	PUTFYLL	_	_
+18	som	som	sbu	sbu	_	19	SBUREL	_	_
+19	kommer	komme	verb	verb	pres	17	ATR	_	_
+20	ut	ut	prep	prep	_	19	ADV	_	_
+21	fra	fra	prep	prep	_	20	PUTFYLL	_	_
+22	høyttalerne	høyttaler	subst	subst	appell|mask|be|fl	21	PUTFYLL	_	_
+23	.	$.	clb	clb	<punkt>	10	IP	_	_
+
+# 67 26 norwegian
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	FSUBJ	_	_
+2	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	nær	nær	adj	adj	ub|m/f|ent|pos	4	ADV	_	_
+4	umulig	umulig	adj	adj	nøyt|ub|ent|pos	2	SPRED	_	_
+5	å	å	inf-merke	inf-merke	_	2	PSUBJ	_	_
+6	være	være	verb	verb	inf|<aux1/perf_part>	5	INFV	_	_
+7	samspilte	samspilt	adj	adj	fl|pos	6	SPRED	_	_
+8	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+9	og	og	konj	konj	<ikke-clb>	22	KONJ	_	_
+10	når	når	sbu	sbu	_	14	SBU	_	_
+11	den	den	det	det	dem|mask|ent	13	DET	_	_
+12	tegneserieaktige	tegneserieaktig	adj	adj	be|ent|pos|samset	13	ATR	_	_
+13	Mii-grafikken	Mii-grafikk	subst	subst	appell|mask|be|ent|samset	14	SUBJ	_	_
+14	ledsages	ledsage	verb	verb	pres|pass	22	ADV	_	_
+15	av	av	prep	prep	_	14	ADV	_	_
+16	midibasert	midibasere	adj	adj	ub|m/f|ent|<perf-part>|samset	17	ATR	_	_
+17	tullelyd	tullelyd	subst	subst	appell|mask|ub|fl|samset	15	PUTFYLL	_	_
+18	og	og	konj	konj	<ikke-clb>	20	KONJ	_	_
+19	dølle	døll	adj	adj	fl|pos	20	ATR	_	_
+20	låter	låt	subst	subst	appell|mask|ub|fl	17	KOORD	_	_
+21	,	$,	<komma>	<komma>	<ikke-clb>	14	IK	_	_
+22	blir	bli	verb	verb	pres|<aux1/perf_part>	2	KOORD	_	_
+23	det	det	pron	pron	nøyt|ent|pers|3	22	FSUBJ	_	_
+24	bare	bare	adv	adv	_	25	ADV	_	_
+25	vondt	vond	adj	adj	nøyt|ub|ent|pos	22	SPRED	_	_
+26	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 51 12 norwegian
+1	Tenk	tenke	verb	verb	imp	0	FINV	_	_
+2	at	at	sbu	sbu	_	9	SBU	_	_
+3	«	$"	<anf>	<anf>	_	6	FLAT	_	_
+4	Mario	Mario	subst	subst	prop	6	FLAT	_	_
+5	»	$"	<anf>	<anf>	_	6	FLAT	_	_
+6	-skaper	-skaper	subst	subst	appell|mask|ub|ent|samset|<contok>	7	APP	_	_
+7	Shigeru	Shigeru	subst	subst	prop	9	SUBJ	_	_
+8	Miyamoto	Miyamoto	subst	subst	prop	7	FLAT	_	_
+9	står	stå	verb	verb	pres	1	DOBJ	_	_
+10	bak	bak	prep	prep	_	9	ADV	_	_
+11	dette	dette	pron	pron	nøyt|ent|pers|3	10	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# 36 18 norwegian
+1	Nei	nei	interj	interj	_	3	INTERJ	_	_
+2	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+3	gi	gi	verb	verb	imp	0	FINV	_	_
+4	heller	heller	adv	adv	_	3	ADV	_	_
+5	barna	barn	subst	subst	appell|nøyt|be|fl	3	IOBJ	_	_
+6	ekte	ekte	adj	adj	fl|pos	7	ATR	_	_
+7	liksominstrumenter	liksominstrument	subst	subst	appell|mask|ub|fl|samset	3	DOBJ	_	_
+8	,	$,	<komma>	<komma>	<ikke-clb>	7	IK	_	_
+9	som	som	prep	prep	_	7	ATR	_	_
+10	de	de	pron	pron	fl|pers|3|nom	9	PUTFYLL	_	_
+11	du	du	pron	pron	ent|pers|hum|nom|2	12	SUBJ	_	_
+12	finner	finne	verb	verb	pres	10	ATR	_	_
+13	i	i	prep	prep	_	12	ADV	_	_
+14	«	$"	<anf>	<anf>	_	15	IK	_	_
+15	Guitar	Guitar	subst	subst	prop	13	PUTFYLL	_	_
+16	Hero	Hero	subst	subst	prop	15	FLAT	_	_
+17	»	$"	<anf>	<anf>	_	15	IK	_	_
+18	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 36 6 norwegian
+1	Dumpa	dumpe	verb	verb	pret	0	FINV	_	_
+2	Boris	Boris	subst	subst	prop|mask	1	SUBJ	_	_
+3	Becker	Becker	subst	subst	prop	2	FLAT	_	_
+4	via	via	prep	prep	_	1	ADV	_	_
+5	SMS	SMS	subst	subst	prop	4	PUTFYLL	_	_
+6	|	$|	clb	clb	<overskrift>	1	IP	_	_
+
+# 20 11 norwegian
+1	Forloveden	forlovede	subst	subst	appell|mask|be|ent	2	SUBJ	_	_
+2	sendte	sende	verb	verb	pret	0	FINV	_	_
+3	meldingen	melding	subst	subst	appell|mask|be|ent	2	DOBJ	_	_
+4	fem	fem	det	det	fl|kvant	5	DET	_	_
+5	ganger	gang	subst	subst	appell|mask|ub|fl	2	ADV	_	_
+6	for	for	prep	prep	_	2	ADV	_	_
+7	å	å	inf-merke	inf-merke	_	6	PUTFYLL	_	_
+8	gni	gni	verb	verb	inf	7	INFV	_	_
+9	det	det	pron	pron	nøyt|ent|pers|3	8	DOBJ	_	_
+10	inn	inn	prep	prep	_	8	ADV	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 16 8 norwegian
+1	Boris	Boris	subst	subst	prop|mask	3	SUBJ	_	_
+2	Becker	Becker	subst	subst	prop	1	FLAT	_	_
+3	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+4	forlatt	forlate	verb	verb	perf-part	3	INFV	_	_
+5	av	av	prep	prep	_	4	ADV	_	_
+6	sin	sin	det	det	mask|ent|poss	7	DET	_	_
+7	forlovede	forlovede	subst	subst	appell|mask|ub|ent	5	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 42 26 norwegian
+1	Men	men	konj	konj	clb	8	KONJ	_	_
+2	den	den	det	det	dem|mask|ent	4	DET	_	_
+3	smålugubre	småluguber	adj	adj	be|ent|pos|samset	4	ATR	_	_
+4	stemningen	stemning	subst	subst	appell|mask|be|ent	8	SUBJ	_	_
+5	og	og	konj	konj	<ikke-clb>	7	KONJ	_	_
+6	kaotiske	kaotisk	adj	adj	be|ent|pos	7	ATR	_	_
+7	kjøringen	kjøring	subst	subst	appell|mask|be|ent	4	KOORD	_	_
+8	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+9	tilbake	tilbake	prep	prep	_	8	SPRED	_	_
+10	slik	slik	adv	adv	_	8	ADV	_	_
+11	jeg	jeg	pron	pron	ent|pers|hum|nom|1	12	SUBJ	_	_
+12	liker	like	verb	verb	pres	10	ADV	_	_
+13	den	den	pron	pron	mask|fem|ent|pers|3	12	DOBJ	_	_
+14	,	$,	<komma>	<komma>	<ikke-clb>	8	IK	_	_
+15	og	og	konj	konj	clb	17	KONJ	_	_
+16	da	da	adv	adv	_	19	ADV	_	_
+17	kan	kunne	verb	verb	pres|<aux1/infinitiv>	8	KOORD	_	_
+18	jeg	jeg	pron	pron	ent|pers|hum|nom|1	17	SUBJ	_	_
+19	si	si	verb	verb	inf	17	INFV	_	_
+20	meg	jeg	pron	pron	ent|pers|hum|akk|1	19	DOBJ	_	_
+21	godt	god	adj	adj	nøyt|ub|ent|pos	22	ADV	_	_
+22	fornøyd	fornøyd	adj	adj	ub|m/f|ent|pos	19	OPRED	_	_
+23	med	med	prep	prep	_	22	ADV	_	_
+24	årets	år	subst	subst	appell|nøyt|be|ent|gen	25	DET	_	_
+25	utgave	utgave	subst	subst	appell|fem|ub|ent	23	PUTFYLL	_	_
+26	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# 3 3 norwegian
+1	Bånn	bånn	adj	adj	ub|m/f|ent|pos	2	ATR	_	_
+2	gass	gass	subst	subst	appell|mask|ub|ent	0	FRAG	_	_
+3	!	$!	clb	clb	<utrop>	2	IP	_	_
+
+# 14 5 norwegian
+1	Med	med	prep	prep	_	0	FRAG	_	_
+2	døden	død	subst	subst	appell|mask|be|ent	1	PUTFYLL	_	_
+3	i	i	prep	prep	_	1	OPRED	_	_
+4	hælene	hæl	subst	subst	appell|mask|be|fl	3	PUTFYLL	_	_
+5	|	$|	clb	clb	<overskrift>	1	IP	_	_
+
+# 24 16 norwegian
+1	Justin	Justin	subst	subst	prop	3	SUBJ	_	_
+2	Fashanu	Fashanu	subst	subst	prop	1	FLAT	_	_
+3	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+4	den	den	det	det	dem|mask|ent	7	DET	_	_
+5	eneste	eneste	det	det	be|kvant|<adj>	7	DET	_	_
+6	profesjonelle	profesjonell	adj	adj	be|ent|pos	7	ATR	_	_
+7	fotballspilleren	fotballspiller	subst	subst	appell|mask|be|ent	3	SPRED	_	_
+8	i	i	prep	prep	_	7	ATR	_	_
+9	verden	verden	subst	subst	appell|mask|ub|ent	8	PUTFYLL	_	_
+10	som	som	sbu	sbu	_	11	SBUREL	_	_
+11	har	ha	verb	verb	pres|<aux1/perf_part>	7	ATR	_	_
+12	stått	stå	verb	verb	perf-part	11	INFV	_	_
+13	fram	fram	prep	prep	_	12	ADV	_	_
+14	som	som	prep	prep	_	12	SPRED	_	_
+15	homofil	homofil	adj	adj	ub|m/f|ent|pos	14	PUTFYLL	_	_
+16	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 3 5 norwegian
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	SUBJ	_	_
+2	ble	bli	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	hans	hans	det	det	mask|ent|poss	4	DET	_	_
+4	bane	bane	subst	subst	appell|mask|ub|ent	2	SPRED	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 25 4 norwegian
+1	Årets	år	subst	subst	appell|nøyt|be|ent|gen	2	DET	_	_
+2	mål	mål	subst	subst	appell|nøyt|ub|ent	0	FRAG	_	_
+3	1980	1980	det	det	fl|kvant	2	ADV	_	_
+4	:	$:	clb	clb	<kolon>	2	IP	_	_
+
+# 36 18 norwegian
+1	Talentfulle	talentfull	adj	adj	be|ent|pos	2	ATR	_	_
+2	Justin	Justin	subst	subst	prop	4	SUBJ	_	_
+3	Fashanu	Fashanu	subst	subst	prop	2	FLAT	_	_
+4	ble	bli	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+5	ettertraktet	ettertrakte	adj	adj	ub|m/f|ent|<perf-part>	4	SPRED	_	_
+6	etter	etter	prep	prep	_	4	ADV	_	_
+7	blant	blant	prep	prep	<contok>	11	ADV	_	_
+8	annet	annen	det	det	dem|nøyt|ub|ent|<adj>	7	PUTFYLL	_	_
+9	å	å	inf-merke	inf-merke	_	6	PUTFYLL	_	_
+10	ha	ha	verb	verb	inf|<aux1/perf_part>	9	INFV	_	_
+11	scoret	score	verb	verb	perf-part	10	INFV	_	_
+12	dette	dette	det	det	dem|nøyt|ent	13	DET	_	_
+13	supermålet	supermål	subst	subst	appell|nøyt|be|ent|samset	11	DOBJ	_	_
+14	mot	mot	prep	prep	_	13	ATR	_	_
+15	Liverpool	Liverpool	subst	subst	prop	14	PUTFYLL	_	_
+16	i	i	prep	prep	_	11	ADV	_	_
+17	1980	1980	det	det	fl|kvant	16	PUTFYLL	_	_
+18	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# 3 3 norwegian
+1	Fæl	fæl	adj	adj	ub|m/f|ent|pos	2	ATR	_	_
+2	sang	sang	subst	subst	appell|mask|ub|ent	0	FRAG	_	_
+3	:	$:	clb	clb	<kolon>	2	IP	_	_
+
+# 154 32 norwegian
+1	Ipswich-fansen	Ipswich-fans	subst	subst	appell|mask|be|ent	10	SUBJ	_	_
+2	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+3	rivalene	rival	subst	subst	appell|mask|be|fl	1	APP	_	_
+4	til	til	prep	prep	_	3	ATR	_	_
+5	Fashanus	Fashanu	subst	subst	prop|gen	7	DET	_	_
+6	gamle	gammel	adj	adj	be|ent|pos	7	ATR	_	_
+7	klubb	klubb	subst	subst	appell|mask|ub|ent	8	APP	_	_
+8	Norwich	Norwich	subst	subst	prop	4	PUTFYLL	_	_
+9	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+10	synger	synge	verb	verb	pres	0	FINV	_	_
+11	den	den	det	det	dem|mask|ent	14	DET	_	_
+12	lite	lite	adj	adj	nøyt|ub|ent|pos	13	ADV	_	_
+13	hyggelige	hyggelig	adj	adj	be|ent|pos	14	ATR	_	_
+14	supportersangen	supportersang	subst	subst	appell|mask|be|ent|samset	16	APP	_	_
+15	«	$"	<anf>	<anf>	_	16	IK	_	_
+16	He's	He's	subst	subst	prop	10	DOBJ	_	_
+17	gay	gay	ukjent	ukjent	_	16	FLAT	_	_
+18	,	$,	<komma>	<komma>	<ikke-clb>	16	FLAT	_	_
+19	he's	he's	ukjent	ukjent	_	16	FLAT	_	_
+20	dead	dead	ukjent	ukjent	_	16	FLAT	_	_
+21	,	$,	<komma>	<komma>	<ikke-clb>	16	FLAT	_	_
+22	he's	he's	ukjent	ukjent	_	16	FLAT	_	_
+23	hanging	hanging	ukjent	ukjent	_	16	FLAT	_	_
+24	in	in	ukjent	ukjent	_	16	FLAT	_	_
+25	the	the	ukjent	ukjent	_	16	FLAT	_	_
+26	shed	shed	ukjent	ukjent	_	16	FLAT	_	_
+27	,	$,	<komma>	<komma>	<ikke-clb>	16	FLAT	_	_
+28	Fashanu	Fashanu	ukjent	ukjent	_	16	FLAT	_	_
+29	,	$,	<komma>	<komma>	<ikke-clb>	16	FLAT	_	_
+30	Fashanu	Fashanu	ukjent	ukjent	_	16	FLAT	_	_
+31	»	$"	<anf>	<anf>	_	16	IK	_	_
+32	.	$.	clb	clb	<punkt>	10	IP	_	_
+
+# 2 2 norwegian
+1	Åstedet	åsted	subst	subst	appell|nøyt|be|ent	0	FRAG	_	_
+2	:	$:	clb	clb	<kolon>	1	IP	_	_
+
+# 8 5 norwegian
+1	Tre	tre	det	det	fl|kvant	2	DET	_	_
+2	løver	løve	subst	subst	appell|fem|ub|fl	0	FRAG	_	_
+3	på	på	prep	prep	_	2	ATR	_	_
+4	brystet	bryst	subst	subst	appell|nøyt|be|ent	3	PUTFYLL	_	_
+5	:	$:	clb	clb	<kolon>	2	IP	_	_
+
+# 17 10 norwegian
+1	Fashanu	Fashanu	subst	subst	prop	2	SUBJ	_	_
+2	fikk	få	verb	verb	pret|<aux1/perf_part>|pa6|<aux1/inf>	0	FINV	_	_
+3	junior-	junior-	ufl	ufl	<contok>	2	DOBJ	_	_
+4	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+5	U21-	U21-	ufl	ufl	_	3	KOORD	_	_
+6	og	og	konj	konj	<ikke-clb>	7	KONJ	_	_
+7	-B-landskamper	-B-landskamp	subst	subst	appell|mask|ub|fl|samset	3	KOORD	_	_
+8	for	for	prep	prep	_	2	ADV	_	_
+9	England	England	subst	subst	prop	8	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 2 2 norwegian
+1	Kampanje	kampanje	subst	subst	appell|mask|ub|ent	0	FRAG	_	_
+2	:	$:	clb	clb	<kolon>	1	IP	_	_
+
+# 215 37 norwegian
+1	The	The	subst	subst	prop	4	SUBJ	_	_
+2	Justin	Justin	subst	subst	prop	1	FLAT	_	_
+3	Campaign	Campaign	subst	subst	prop	1	FLAT	_	_
+4	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+5	startet	starte	verb	verb	perf-part	4	INFV	_	_
+6	av	av	prep	prep	_	5	ADV	_	_
+7	menneskerettighets-aktivister	menneskerettighets-aktivist	subst	subst	appell|mask|ub|fl|samset	6	PUTFYLL	_	_
+8	for	for	prep	prep	_	5	ADV	_	_
+9	å	å	inf-merke	inf-merke	_	8	PUTFYLL	_	_
+10	få	få	verb	verb	inf|<aux1/perf_part>|pa6|<aux1/inf>	9	INFV	_	_
+11	fotballmyndighetene	fotballmyndighet	subst	subst	appell|fem|be|fl|samset	10	DOBJ	_	_
+12	i	i	prep	prep	_	11	ATR	_	_
+13	England	England	subst	subst	prop	12	PUTFYLL	_	_
+14	til	til	prep	prep	_	10	ADV	_	_
+15	å	å	inf-merke	inf-merke	_	14	PUTFYLL	_	_
+16	anerkjenne	anerkjenne	verb	verb	inf	15	INFV	_	_
+17	lørdag	lørdag	subst	subst	appell|mask|ub|ent	16	DOBJ	_	_
+18	2.	2.	adj	adj	fl|<ordenstall>	19	ATR	_	_
+19	mai	mai	subst	subst	appell|mask|ubøy	17	ATR	_	_
+20	,	$,	<komma>	<komma>	<ikke-clb>	17	IK	_	_
+21	datoen	dato	subst	subst	appell|mask|be|ent	17	APP	_	_
+22	Justin	Justin	subst	subst	prop	23	SUBJ	_	_
+23	døde	dø	verb	verb	pret	21	ATR	_	_
+24	,	$,	<komma>	<komma>	<ikke-clb>	21	IK	_	_
+25	som	som	prep	prep	_	16	SPRED	_	_
+26	Justin	Justin	subst	subst	prop	25	PUTFYLL	_	_
+27	Fashanu	Fashanu	subst	subst	prop	26	FLAT	_	_
+28	Day	Day	subst	subst	prop	26	FLAT	_	_
+29	,	$,	<komma>	<komma>	<ikke-clb>	16	IK	_	_
+30	som	som	prep	prep	_	16	ADV	_	_
+31	en	en	det	det	mask|ent|kvant	32	DET	_	_
+32	protest	protest	subst	subst	appell|mask|ub|ent	30	PUTFYLL	_	_
+33	mot	mot	prep	prep	_	32	ATR	_	_
+34	homofobien	homofobi	subst	subst	appell|mask|be|ent	33	PUTFYLL	_	_
+35	i	i	prep	prep	_	34	ATR	_	_
+36	fotballen	fotball	subst	subst	appell|mask|be|ent	35	PUTFYLL	_	_
+37	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# 12 12 norwegian
+1	De	de	pron	pron	fl|pers|3|nom	2	SUBJ	_	_
+2	ønsker	ønske	verb	verb	pres	0	FINV	_	_
+3	et	en	det	det	nøyt|ent|kvant	4	DET	_	_
+4	minutts	minutt	subst	subst	appell|nøyt|ub|ent|gen	5	DET	_	_
+5	stillhet	stillhet	subst	subst	appell|fem|ub|ent	2	DOBJ	_	_
+6	og	og	konj	konj	<ikke-clb>	9	KONJ	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	spillere	spiller	subst	subst	appell|mask|ub|fl	9	SUBJ	_	_
+9	skal	skulle	verb	verb	pres|<aux1/perf_part>|<aux1/infinitiv>	5	KOORD	_	_
+10	bære	bære	verb	verb	inf	9	INFV	_	_
+11	sørgebånd	sørgebånd	subst	subst	appell|nøyt|ub|ent|samset	10	DOBJ	_	_
+12	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 3 2 norwegian
+1	Hjemme	hjemme	prep	prep	_	0	FRAG	_	_
+2	:	$:	clb	clb	<kolon>	1	IP	_	_
+
+# 12 17 norwegian
+1	I	i	prep	prep	_	7	ADV	_	_
+2	denne	denne	det	det	dem|mask|ent	3	DET	_	_
+3	kirken	kirke	subst	subst	appell|mask|be|ent	1	PUTFYLL	_	_
+4	på	på	prep	prep	_	3	ATR	_	_
+5	hjemstedet	hjemsted	subst	subst	appell|nøyt|be|ent	6	APP	_	_
+6	Shropham	Shropham	subst	subst	prop	4	PUTFYLL	_	_
+7	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+8	Justin	Justin	subst	subst	prop	7	SUBJ	_	_
+9	den	den	det	det	dem|mask|ent	12	DET	_	_
+10	eneste	eneste	det	det	be|kvant|<adj>	12	DET	_	_
+11	svarte	svart	adj	adj	be|ent|pos	12	ATR	_	_
+12	gutten	gutt	subst	subst	appell|mask|be|ent	7	SPRED	_	_
+13	i	i	prep	prep	_	12	ATR	_	_
+14	det	det	det	det	dem|nøyt|ent	16	DET	_	_
+15	lokale	lokal	adj	adj	be|ent|pos	16	ATR	_	_
+16	koret	kor	subst	subst	appell|nøyt|be|ent	13	PUTFYLL	_	_
+17	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# 8 5 norwegian
+1	Les	lese	verb	verb	imp	0	FINV	_	_
+2	mer	mye	adj	adj	komp	1	DOBJ	_	_
+3	i	i	prep	prep	_	1	ADV	_	_
+4	Sportmagasinet	Sportmagasinet	subst	subst	prop	3	PUTFYLL	_	_
+5	:	$:	clb	clb	<kolon>	1	IP	_	_
+
+# 118 33 norwegian
+1	I	i	prep	prep	_	13	ADV	_	_
+2	dagens	dag	subst	subst	appell|mask|be|ent|gen	3	DET	_	_
+3	utgave	utgave	subst	subst	appell|fem|ub|ent	1	PUTFYLL	_	_
+4	kan	kunne	verb	verb	pres|<aux1/infinitiv>	0	FINV	_	_
+5	du	du	pron	pron	ent|pers|hum|nom|2	4	SUBJ	_	_
+6	i	i	prep	prep	_	13	ADV	_	_
+7	tillegg	tillegg	subst	subst	appell|nøyt|ub|ent	6	PUTFYLL	_	_
+8	til	til	prep	prep	_	7	ATR	_	_
+9	historien	historie	subst	subst	appell|mask|be|ent	8	PUTFYLL	_	_
+10	om	om	prep	prep	_	9	ATR	_	_
+11	Justin	Justin	subst	subst	prop	10	PUTFYLL	_	_
+12	Fashanu	Fashanu	subst	subst	prop	11	FLAT	_	_
+13	møte	møte	verb	verb	inf	4	INFV	_	_
+14	Norges	Norge	subst	subst	prop|gen	16	DET	_	_
+15	tøffeste	tøff	adj	adj	be|sup	16	ATR	_	_
+16	fridykkerjente	fridykkerjente	subst	subst	appell|fem|ub|ent|samset	13	DOBJ	_	_
+17	,	$,	<komma>	<komma>	<ikke-clb>	13	IK	_	_
+18	være	være	verb	verb	inf|<aux1/perf_part>	13	KOORD	_	_
+19	med	med	prep	prep	_	18	SPRED	_	_
+20	Petter	Petter	subst	subst	prop|mask	19	PUTFYLL	_	_
+21	Solberg	Solberg	subst	subst	prop	20	FLAT	_	_
+22	til	til	prep	prep	_	18	ADV	_	_
+23	Japan	Japan	subst	subst	prop	22	PUTFYLL	_	_
+24	og	og	konj	konj	<ikke-clb>	25	KONJ	_	_
+25	lese	lese	verb	verb	inf	13	KOORD	_	_
+26	om	om	prep	prep	_	25	ADV	_	_
+27	Nicholas	Nicholas	subst	subst	prop	30	DET	_	_
+28	Anelkas	Anelka	subst	subst	prop|gen	27	FLAT	_	_
+29	trøblete	trøblete	adj	adj	be|ent|pos	30	ATR	_	_
+30	vei	vei	subst	subst	appell|mask|ub|ent	26	PUTFYLL	_	_
+31	til	til	prep	prep	_	30	ATR	_	_
+32	toppen	topp	subst	subst	appell|mask|be|ent	31	PUTFYLL	_	_
+33	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# 7 10 norwegian
+1	Vi	vi	pron	pron	fl|pers|hum|nom|1	2	SUBJ	_	_
+2	står	stå	verb	verb	pres	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	stedet	sted	subst	subst	appell|nøyt|be|ent	3	PUTFYLL	_	_
+5	hvor	hvor	adv	adv	_	7	ADV	_	_
+6	han	han	pron	pron	mask|ent|pers|hum|3|nom	7	SUBJ	_	_
+7	endte	ende	verb	verb	pret	4	ATR	_	_
+8	livet	liv	subst	subst	appell|nøyt|be|ent	7	DOBJ	_	_
+9	sitt	sin	det	det	nøyt|ent|poss	8	DET	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 3 5 norwegian
+1	Morgendisen	morgendis	subst	subst	appell|mask|be|ent	2	SUBJ	_	_
+2	henger	henge	verb	verb	pres	0	FINV	_	_
+3	over	over	prep	prep	_	2	ADV	_	_
+4	Shoreditch	Shoreditch	subst	subst	prop	3	PUTFYLL	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 37 16 norwegian
+1	Londonerne	londoner	subst	subst	appell|mask|be|fl	2	SUBJ	_	_
+2	haster	haste	verb	verb	pres	0	FINV	_	_
+3	til	til	prep	prep	_	2	ADV	_	_
+4	arbeidet	arbeid	subst	subst	appell|nøyt|be|ent	3	PUTFYLL	_	_
+5	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+6	til	til	prep	prep	_	3	APP	_	_
+7	et	en	det	det	nøyt|ent|kvant	8	DET	_	_
+8	liv	liv	subst	subst	appell|nøyt|ub|ent	6	PUTFYLL	_	_
+9	som	som	sbu	sbu	_	11	SBUREL	_	_
+10	sikkert	sikker	adj	adj	nøyt|ub|ent|pos	11	ADV	_	_
+11	er	være	verb	verb	pres|<aux1/perf_part>	8	ATR	_	_
+12	stabilt	stabil	adj	adj	nøyt|ub|ent|pos	11	SPRED	_	_
+13	eller	eller	konj	konj	<ikke-clb>	14	KONJ	_	_
+14	kanskje	kanskje	adv	adv	_	11	KOORD-ELL	_	_
+15	ikke	ikke	adv	adv	_	14	ADV	_	_
+16	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 18 11 norwegian
+1	Tenker	tenke	verb	verb	pres	0	FINV	_	_
+2	de	de	pron	pron	fl|pers|3|nom	1	SUBJ	_	_
+3	noen	noen	det	det	mask|ent|kvant	4	DET	_	_
+4	gang	gang	subst	subst	appell|mask|ub|ent	1	ADV	_	_
+5	på	på	prep	prep	_	1	ADV	_	_
+6	Justin	Justin	subst	subst	prop	5	PUTFYLL	_	_
+7	Fashanu	Fashanu	subst	subst	prop	6	FLAT	_	_
+8	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+9	disse	disse	det	det	dem|fl	10	DET	_	_
+10	menneskene	menneske	subst	subst	appell|nøyt|be|fl	2	APP	_	_
+11	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# 9 13 norwegian
+1	Funderer	fundere	verb	verb	pres	0	FINV	_	_
+2	de	de	pron	pron	fl|pers|3|nom	1	SUBJ	_	_
+3	noen	noen	det	det	mask|ent|kvant	4	DET	_	_
+4	gang	gang	subst	subst	appell|mask|ub|ent	1	ADV	_	_
+5	på	på	prep	prep	_	1	ADV	_	_
+6	hvordan	hvordan	adv	adv	_	8	ADV	_	_
+7	han	han	pron	pron	mask|ent|pers|hum|3|nom	8	SUBJ	_	_
+8	hadde	ha	verb	verb	pret|<aux1/perf_part>	5	PUTFYLL	_	_
+9	det	det	pron	pron	nøyt|ent|pers|3	8	DOBJ	_	_
+10	,	$,	<komma>	<komma>	<ikke-clb>	8	IK	_	_
+11	innerst	indre	adj	adj	ub|sup	12	ADV	_	_
+12	inne	inne	prep	prep	_	8	ADV	_	_
+13	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# 4 5 norwegian
+1	Vi	vi	pron	pron	fl|pers|hum|nom|1	2	SUBJ	_	_
+2	gløtter	gløtte	verb	verb	pres	0	FINV	_	_
+3	over	over	prep	prep	_	2	ADV	_	_
+4	gata	gate	subst	subst	appell|fem|be|ent	3	PUTFYLL	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 18 15 norwegian
+1	Der	der	prep	prep	_	2	ADV	_	_
+2	ligger	ligge	verb	verb	pres	0	FINV	_	_
+3	«	$"	<anf>	<anf>	_	4	IK	_	_
+4	Chariot's	Chariot's	subst	subst	prop|<contok>	2	SUBJ	_	_
+5	,	$,	<komma>	<komma>	<ikke-clb>	4	FLAT	_	_
+6	The	The	subst	subst	prop	4	FLAT	_	_
+7	UKs	UKs	ukjent	ukjent	_	4	FLAT	_	_
+8	largest	largest	ukjent	ukjent	_	4	FLAT	_	_
+9	and	and	ukjent	ukjent	_	4	FLAT	_	_
+10	friendliest	friendliest	ukjent	ukjent	_	4	FLAT	_	_
+11	gay	gay	ukjent	ukjent	_	4	FLAT	_	_
+12	men	men	ukjent	ukjent	_	4	FLAT	_	_
+13	sauna	sauna	ukjent	ukjent	_	4	FLAT	_	_
+14	»	$"	<anf>	<anf>	_	4	IK	_	_
+15	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 11 7 norwegian
+1	En	en	det	det	mask|ent|kvant	2	DET	_	_
+2	mann	mann	subst	subst	appell|mask|ub|ent	3	SUBJ	_	_
+3	kommer	komme	verb	verb	pres	0	FINV	_	_
+4	ut	ut	prep	prep	_	3	ADV	_	_
+5	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+6	nydusjet	nydusjet	adj	adj	ub|m/f|ent|pos	3	FSPRED	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 7 10 norwegian
+1	Justin	Justin	subst	subst	prop	2	SUBJ	_	_
+2	tilbrakte	tilbringe	verb	verb	pret	0	FINV	_	_
+3	de	de	det	det	dem|fl	5	DET	_	_
+4	siste	sist	adj	adj	fl|pos	5	ATR	_	_
+5	timene	time	subst	subst	appell|mask|be|fl	2	DOBJ	_	_
+6	av	av	prep	prep	_	5	ATR	_	_
+7	sitt	sin	det	det	nøyt|ent|poss	8	DET	_	_
+8	liv	liv	subst	subst	appell|nøyt|ub|ent	6	PUTFYLL	_	_
+9	her	her	prep	prep	_	2	ADV	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 21 5 norwegian
+1	Lørdag	lørdag	subst	subst	appell|mask|ub|ent	0	FRAG	_	_
+2	2.	2.	adj	adj	fl|<ordenstall>	3	ATR	_	_
+3	mai	mai	subst	subst	appell|mask|ubøy	1	ATR	_	_
+4	1998	1998	det	det	fl|kvant	1	ATR	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# 73 26 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	satt	sitte	verb	verb	pret	0	FINV	_	_
+3	i	i	prep	prep	_	2	ADV	_	_
+4	et	en	det	det	nøyt|ent|kvant	3	PUTFYLL	_	_
+5	av	av	prep	prep	_	4	ATR	_	_
+6	de	de	det	det	dem|fl	8	DET	_	_
+7	50	50	det	det	fl|kvant	8	DET	_	_
+8	rommene	rom	subst	subst	appell|nøyt|be|fl	5	PUTFYLL	_	_
+9	der	der	prep	prep	<contok>	8	ATR	_	_
+10	inne	inne	prep	prep	_	9	PUTFYLL	_	_
+11	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+12	i	i	prep	prep	_	3	KOORD	_	_
+13	en	en	det	det	mask|ent|kvant	12	PUTFYLL	_	_
+14	av	av	prep	prep	_	13	ATR	_	_
+15	jacuzziene	jacuzzi	subst	subst	appell|mask|be|fl	14	PUTFYLL	_	_
+16	,	$,	<komma>	<komma>	<ikke-clb>	12	IK	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	i	i	prep	prep	_	3	KOORD	_	_
+19	dampbadet	dampbad	subst	subst	appell|nøyt|be|ent	18	PUTFYLL	_	_
+20	,	$,	<komma>	<komma>	<ikke-clb>	18	IK	_	_
+21	og	og	konj	konj	<ikke-clb>	24	KONJ	_	_
+22	til	til	prep	prep	_	24	ADV	_	_
+23	sist	sist	adv	adv	_	22	PUTFYLL	_	_
+24	i	i	prep	prep	_	3	KOORD	_	_
+25	saunaen	sauna	subst	subst	appell|mask|be|ent	24	PUTFYLL	_	_
+26	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 53 16 norwegian
+1	På	på	prep	prep	_	4	ADV	_	_
+2	sin	sin	det	det	mask|ent|poss	3	DET	_	_
+3	reise	reise	subst	subst	appell|mask|ub|ent	1	PUTFYLL	_	_
+4	suste	suse	verb	verb	pret|n	0	FINV	_	_
+5	den	den	pron	pron	mask|fem|ent|pers|3	4	SUBJ	_	_
+6	forbi	forbi	prep	prep	_	4	ADV	_	_
+7	Alan	Alan	subst	subst	prop	9	DET	_	_
+8	Hansens	Hansen	subst	subst	prop|gen	7	FLAT	_	_
+9	øre	øre	subst	subst	appell|nøyt|ub|ent	6	PUTFYLL	_	_
+10	,	$,	<komma>	<komma>	<ikke-clb>	6	IK	_	_
+11	like	like	adv	adv	_	12	ADV	_	_
+12	forbi	forbi	prep	prep	_	6	APP	_	_
+13	keeperens	keeper	subst	subst	appell|mask|be|ent|gen	15	DET	_	_
+14	utstrakte	utstrakt	adj	adj	fl|pos	15	ATR	_	_
+15	hender	hånd	subst	subst	appell|fem|ub|fl	12	PUTFYLL	_	_
+16	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# 43 17 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	spilte	spille	verb	verb	pret	0	FINV	_	_
+3	seg	seg	pron	pron	akk|refl	2	DOBJ	_	_
+4	til	til	prep	prep	_	2	ADV	_	_
+5	plass	plass	subst	subst	appell|mask|ub|ent	4	PUTFYLL	_	_
+6	på	på	prep	prep	_	5	ATR	_	_
+7	juniorlandslaget	juniorlandslag	subst	subst	appell|nøyt|be|ent	6	PUTFYLL	_	_
+8	til	til	prep	prep	_	7	ATR	_	_
+9	England	England	subst	subst	prop	8	PUTFYLL	_	_
+10	,	$,	<komma>	<komma>	<ikke-clb>	4	IK	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	til	til	prep	prep	_	4	KOORD	_	_
+13	U21	U21	subst	subst	prop	12	PUTFYLL	_	_
+14	,	$,	<komma>	<komma>	<ikke-clb>	13	IK	_	_
+15	og	og	konj	konj	<ikke-clb>	16	KONJ	_	_
+16	B-landslaget	B-landslag	subst	subst	appell|nøyt|be|ent|samset	13	KOORD	_	_
+17	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 37 16 norwegian
+1	Fashanu	Fashanu	subst	subst	prop	11	SUBJ	_	_
+2	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+3	høy	høy	adj	adj	ub|m/f|ent|pos	1	ATR	_	_
+4	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+5	sterk	sterk	adj	adj	ub|m/f|ent|pos	3	KOORD	_	_
+6	og	og	konj	konj	<ikke-clb>	7	KONJ	_	_
+7	utsøkt	utsøkt	adj	adj	ub|m/f|ent|pos	3	KOORD	_	_
+8	med	med	prep	prep	_	7	ADV	_	_
+9	ballen	ball	subst	subst	appell|mask|be|ent	8	PUTFYLL	_	_
+10	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+11	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+12	attpåtil	attpåtil	adv	adv	_	13	ADV	_	_
+13	velartikulert	velartikulert	adj	adj	ub|m/f|ent|pos	11	SPRED	_	_
+14	og	og	konj	konj	<ikke-clb>	15	KONJ	_	_
+15	sjarmerende	sjarmere	adj	adj	<pres-part>	13	KOORD	_	_
+16	.	$.	clb	clb	<punkt>	11	IP	_	_
+
+# 25 10 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	fant	finne	verb	verb	pret	0	FINV	_	_
+3	sin	sin	det	det	mask|ent|poss	5	DET	_	_
+4	plutselige	plutselig	adj	adj	be|ent|pos	5	ATR	_	_
+5	celebritetsstatus	celebritetsstatus	subst	subst	appell|mask|ub|ent|samset	2	DOBJ	_	_
+6	både	både	konj	konj	<ikke-clb>|<adv>	7	KONJ	_	_
+7	smigrende	smigre	adj	adj	<pres-part>	2	OPRED	_	_
+8	og	og	konj	konj	<ikke-clb>	9	KONJ	_	_
+9	stressende	stresse	adj	adj	<pres-part>	7	KOORD	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 28 23 norwegian
+1	Justin	Justin	subst	subst	prop	2	SUBJ	_	_
+2	skal	skulle	verb	verb	pres|<aux1/perf_part>|<aux1/infinitiv>	0	FINV	_	_
+3	bli	bli	verb	verb	inf|<aux1/perf_part>	2	INFV	_	_
+4	den	den	det	det	dem|mask|ent	8	DET	_	_
+5	nest	nest	adv	adv	_	6	ADV	_	_
+6	dyreste	dyr	adj	adj	be|sup	8	ATR	_	_
+7	britiske	britisk	adj	adj	be|ent|pos	8	ATR	_	_
+8	fotballspilleren	fotballspiller	subst	subst	appell|mask|be|ent	3	SPRED	_	_
+9	,	$,	<komma>	<komma>	<ikke-clb>	8	IK	_	_
+10	den	den	det	det	dem|mask|ent	13	DET	_	_
+11	første	første	adj	adj	be|ent|pos|<ordenstall>	13	ATR	_	_
+12	svarte	svart	adj	adj	be|ent|pos	13	ATR	_	_
+13	spilleren	spiller	subst	subst	appell|mask|be|ent	8	APP	_	_
+14	som	som	sbu	sbu	_	15	SBUREL	_	_
+15	sprenger	sprenge	verb	verb	pres	13	ATR	_	_
+16	grensa	grense	subst	subst	appell|fem|be|ent	15	DOBJ	_	_
+17	på	på	prep	prep	_	16	ATR	_	_
+18	én	én	det	det	mask|ent|kvant	19	DET	_	_
+19	million	million	subst	subst	appell|mask|ub|ent	20	DET	_	_
+20	pund	pund	subst	subst	appell|nøyt|ub|fl	17	PUTFYLL	_	_
+21	i	i	prep	prep	_	20	ATR	_	_
+22	overgangssum	overgangssum	subst	subst	appell|mask|ub|ent	21	PUTFYLL	_	_
+23	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 47 24 norwegian
+1	Mange	mange	adj	adj	fl|pos	2	ATR	_	_
+2	klubber	klubb	subst	subst	appell|mask|ub|fl	3	SUBJ	_	_
+3	har	ha	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+4	vært	være	verb	verb	perf-part|<aux1/perf_part>	3	INFV	_	_
+5	ute	ute	prep	prep	_	4	ADV	_	_
+6	etter	etter	prep	prep	_	5	PUTFYLL	_	_
+7	ham	han	pron	pron	mask|ent|pers|hum|3|akk	6	PUTFYLL	_	_
+8	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+9	men	men	konj	konj	clb	13	KONJ	_	_
+10	i	i	prep	prep	_	13	ADV	_	_
+11	august	august	subst	subst	appell|mask|ubøy	10	PUTFYLL	_	_
+12	1981	1981	det	det	fl|kvant	11	ATR	_	_
+13	løper	løpe	verb	verb	pres	3	KOORD	_	_
+14	Fashanu	Fashanu	subst	subst	prop	13	DOBJ	_	_
+15	ut	ut	prep	prep	_	13	ADV	_	_
+16	som	som	prep	prep	_	13	FSPRED	_	_
+17	nummer	nummer	subst	subst	appell|nøyt|ub|ent	18	ADV	_	_
+18	9	9	det	det	fl|kvant	16	PUTFYLL	_	_
+19	på	på	prep	prep	_	13	ADV	_	_
+20	Nottingham	Nottingham	subst	subst	prop	19	PUTFYLL	_	_
+21	Forests	Forests	subst	subst	prop	20	FLAT	_	_
+22	City	City	subst	subst	prop	20	FLAT	_	_
+23	Ground	Ground	subst	subst	prop	20	FLAT	_	_
+24	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 2 4 norwegian
+1	Forventningene	forventning	subst	subst	appell|fem|be|fl	2	SUBJ	_	_
+2	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	enorme	enorm	adj	adj	fl|pos	2	SPRED	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 33 14 norwegian
+1	Ikke	ikke	adv	adv	_	2	ADV	_	_
+2	bare	bare	adv	adv	_	5	ADV	_	_
+3	skal	skulle	verb	verb	pres|<aux1/perf_part>|<aux1/infinitiv>	0	FINV	_	_
+4	han	han	pron	pron	mask|ent|pers|hum|3|nom	3	SUBJ	_	_
+5	score	score	verb	verb	inf	3	INFV	_	_
+6	mål	mål	subst	subst	appell|nøyt|ub|fl	5	DOBJ	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+8	han	han	pron	pron	mask|ent|pers|hum|3|nom	9	SUBJ	_	_
+9	skal	skulle	verb	verb	pres|<aux1/perf_part>|<aux1/infinitiv>	3	KOORD	_	_
+10	være	være	verb	verb	inf|<aux1/perf_part>	9	INFV	_	_
+11	et	en	det	det	nøyt|ent|kvant	13	DET	_	_
+12	svart	svart	adj	adj	nøyt|ub|ent|pos	13	ATR	_	_
+13	forbilde	forbilde	subst	subst	appell|nøyt|ub|ent	10	SPRED	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 7 11 norwegian
+1	Men	men	konj	konj	clb	5	KONJ	_	_
+2	de	de	det	det	dem|fl	4	DET	_	_
+3	neste	neste	det	det	dem|be|<adj>	4	DET	_	_
+4	månedene	måned	subst	subst	appell|mask|be|fl	5	SUBJ	_	_
+5	skal	skulle	verb	verb	pres|<aux1/perf_part>|<aux1/infinitiv>	0	FINV	_	_
+6	fortone	fortone	verb	verb	inf	5	INFV	_	_
+7	seg	seg	pron	pron	akk|refl	6	DOBJ	_	_
+8	som	som	prep	prep	_	6	OPRED	_	_
+9	et	en	det	det	nøyt|ent|kvant	10	DET	_	_
+10	mareritt	mareritt	subst	subst	appell|nøyt|ub|ent	8	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# 36 26 norwegian
+1	På	på	prep	prep	_	4	ADV	_	_
+2	den	den	det	det	dem|fem|ent	3	DET	_	_
+3	tida	tid	subst	subst	appell|fem|be|ent	1	PUTFYLL	_	_
+4	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+5	Fashanu	Fashanu	subst	subst	prop	4	SUBJ	_	_
+6	i	i	prep	prep	_	4	SPRED	_	_
+7	et	en	det	det	nøyt|ent|kvant	9	DET	_	_
+8	heterofilt	heterofil	adj	adj	nøyt|ub|ent|pos	9	ATR	_	_
+9	forhold	forhold	subst	subst	appell|nøyt|ub|ent	6	PUTFYLL	_	_
+10	,	$,	<komma>	<komma>	<ikke-clb>	4	IK	_	_
+11	men	men	konj	konj	clb	13	KONJ	_	_
+12	han	han	pron	pron	mask|ent|pers|hum|3|nom	13	SUBJ	_	_
+13	har	ha	verb	verb	pres|<aux1/perf_part>	4	KOORD	_	_
+14	ikke	ikke	adv	adv	_	15	ADV	_	_
+15	vært	være	verb	verb	perf-part|<aux1/perf_part>	13	INFV	_	_
+16	i	i	prep	prep	_	15	SPRED	_	_
+17	Nottingham	Nottingham	subst	subst	prop	16	PUTFYLL	_	_
+18	lenge	lenge	adj	adj	pos|<adv>	15	ADV	_	_
+19	før	før	sbu	sbu	_	21	SBU	_	_
+20	han	han	pron	pron	mask|ent|pers|hum|3|nom	21	SUBJ	_	_
+21	blir	bli	verb	verb	pres|<aux1/perf_part>	15	ADV	_	_
+22	trukket	trekke	verb	verb	perf-part|n	21	INFV	_	_
+23	mot	mot	prep	prep	_	22	ADV	_	_
+24	byens	by	subst	subst	appell|mask|be|ent|gen	25	DET	_	_
+25	homsescene	homsescene	subst	subst	appell|mask|ub|ent|samset	23	PUTFYLL	_	_
+26	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# 5 6 norwegian
+1	I	i	prep	prep	_	4	ADV	_	_
+2	sin	sin	det	det	mask|ent|poss	3	DET	_	_
+3	biografi	biografi	subst	subst	appell|mask|ub|ent	1	PUTFYLL	_	_
+4	sier	si	verb	verb	pres	0	FINV	_	_
+5	Clough	Clough	subst	subst	prop	4	SUBJ	_	_
+6	:	$:	clb	clb	<kolon>	4	IP	_	_
+
+# 68 23 norwegian
+1	«	$"	<anf>	<anf>	_	13	IK	_	_
+2	At	at	sbu	sbu	_	5	SBU	_	_
+3	han	han	pron	pron	mask|ent|pers|hum|3|nom	5	SUBJ	_	_
+4	ikke	ikke	adv	adv	_	7	ADV	_	_
+5	skulle	skulle	verb	verb	pret|<aux1/perf_part>|<aux1/infinitiv>	13	SUBJ	_	_
+6	få	få	verb	verb	inf|<aux1/perf_part>|pa6|<aux1/inf>	5	INFV	_	_
+7	leve	leve	verb	verb	inf	6	INFV	_	_
+8	ut	ut	prep	prep	_	7	ADV	_	_
+9	sin	sin	det	det	mask|ent|poss	10	DET	_	_
+10	seksualitet	seksualitet	subst	subst	appell|mask|ub|ent	7	DOBJ	_	_
+11	hos	hos	prep	prep	_	7	ADV	_	_
+12	oss	vi	pron	pron	fl|pers|hum|akk|1	11	PUTFYLL	_	_
+13	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+14	som	som	prep	prep	_	13	SPRED	_	_
+15	å	å	inf-merke	inf-merke	_	14	PUTFYLL	_	_
+16	stenge	stenge	verb	verb	inf	15	INFV	_	_
+17	ute	ute	prep	prep	_	16	ADV	_	_
+18	et	en	det	det	nøyt|ent|kvant	19	DET	_	_
+19	barn	barn	subst	subst	appell|nøyt|ub|ent	16	DOBJ	_	_
+20	fra	fra	prep	prep	_	16	ADV	_	_
+21	en	en	det	det	mask|ent|kvant	22	DET	_	_
+22	godtebutikk	godtebutikk	subst	subst	appell|mask|ub|ent	20	PUTFYLL	_	_
+23	.	$.	clb	clb	<punkt>	13	IP	_	_
+
+# 18 10 norwegian
+1	Justin	Justin	subst	subst	prop	3	SUBJ	_	_
+2	Fashanu	Fashanu	subst	subst	prop	1	FLAT	_	_
+3	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+4	et	en	det	det	nøyt|ent|kvant	7	DET	_	_
+5	håpløst	håpløs	adj	adj	nøyt|ub|ent|pos	7	ATR	_	_
+6	«	$"	<anf>	<anf>	_	7	IK	_	_
+7	misfit	misfit	subst	subst	appell|unorm	3	SPRED	_	_
+8	"	$"	<anf>	<anf>	_	7	IK	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+10	»	$"	clb	clb	<anf>	3	IK	_	_
+
+# 23 7 norwegian
+1	Peter	Peter	subst	subst	prop|mask	3	SUBJ	_	_
+2	Tachell	Tachell	subst	subst	prop	1	FLAT	_	_
+3	så	se	verb	verb	pret	0	FINV	_	_
+4	Justin	Justin	subst	subst	prop	5	SUBJ	_	_
+5	slå	slå	verb	verb	inf	3	DOBJ	_	_
+6	sprekker	sprekk	subst	subst	appell|mask|ub|fl	5	DOBJ	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 59 31 norwegian
+1	-	$-	<strek>	<strek>	_	13	IK	_	_
+2	Selv	selv	adv	adv	_	3	ADV	_	_
+3	om	om	sbu	sbu	_	5	SBU	_	_
+4	det	det	pron	pron	nøyt|ent|pers|3	5	FSUBJ	_	_
+5	var	være	verb	verb	pret|<aux1/perf_part>	13	ADV	_	_
+6	en	en	det	det	mask|ent|kvant	7	DET	_	_
+7	risiko	risiko	subst	subst	appell|mask|ub|ent	5	PSUBJ	_	_
+8	for	for	prep	prep	_	7	ATR	_	_
+9	å	å	inf-merke	inf-merke	_	8	PUTFYLL	_	_
+10	bli	bli	verb	verb	inf|<aux1/perf_part>	9	INFV	_	_
+11	eksponert	eksponere	verb	verb	perf-part	10	INFV	_	_
+12	,	$,	<komma>	<komma>	<ikke-clb>	5	IK	_	_
+13	gjorde	gjøre	verb	verb	pret	0	FINV	_	_
+14	det	det	pron	pron	nøyt|ent|pers|3	13	FSUBJ	_	_
+15	ikke	ikke	adv	adv	_	13	ADV	_	_
+16	Justin	Justin	subst	subst	prop	13	IOBJ	_	_
+17	noe	noe	pron	pron	nøyt|ent|pers|3	13	DOBJ	_	_
+18	å	å	inf-merke	inf-merke	_	13	PSUBJ	_	_
+19	gå	gå	verb	verb	inf	18	INFV	_	_
+20	ut	ut	prep	prep	_	19	ADV	_	_
+21	med	med	prep	prep	_	19	ADV	_	_
+22	meg	jeg	pron	pron	ent|pers|hum|akk|1	21	PUTFYLL	_	_
+23	på	på	prep	prep	_	19	ADV	_	_
+24	klubber	klubb	subst	subst	appell|mask|ub|fl	23	PUTFYLL	_	_
+25	,	$,	<komma>	<komma>	<ikke-clb>	24	IK	_	_
+26	familiesammenkomster	familiesammenkomst	subst	subst	appell|mask|ub|fl	24	KOORD	_	_
+27	og	og	konj	konj	<ikke-clb>	30	KONJ	_	_
+28	høyt	høy	adj	adj	nøyt|ub|ent|pos	29	ADV	_	_
+29	profilerte	profilere	adj	adj	fl|<perf-part>	30	ATR	_	_
+30	begivenheter	begivenhet	subst	subst	appell|fem|ub|fl	24	KOORD	_	_
+31	.	$.	clb	clb	<punkt>	13	IP	_	_
+
+# 82 20 norwegian
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	FSUBJ	_	_
+2	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	som	som	prep	prep	_	2	SPRED	_	_
+4	om	om	sbu	sbu	_	6	SBU	_	_
+5	han	han	pron	pron	mask|ent|pers|hum|3|nom	6	SUBJ	_	_
+6	ønsket	ønske	verb	verb	pret	3	PUTFYLL	_	_
+7	å	å	inf-merke	inf-merke	_	6	DOBJ	_	_
+8	bli	bli	verb	verb	inf|<aux1/perf_part>	7	INFV	_	_
+9	outa	oute	verb	verb	perf-part	8	INFV	_	_
+10	for	for	prep	prep	_	9	ADV	_	_
+11	å	å	inf-merke	inf-merke	_	10	PUTFYLL	_	_
+12	gjøre	gjøre	verb	verb	inf	11	INFV	_	_
+13	slutt	slutt	adj	adj	nøyt|ub|ent|pos	12	ADV	_	_
+14	på	på	prep	prep	_	13	ADV	_	_
+15	presset	press	subst	subst	appell|nøyt|be|ent	14	PUTFYLL	_	_
+16	om	som	sbu	sbu	unorm	17	SBUREL	_	_
+17	fulgte	følge	verb	verb	pret	15	ATR	_	_
+18	med	med	prep	prep	_	17	ADV	_	_
+19	dobbeltlivet	dobbeltliv	subst	subst	appell|nøyt|be|ent	18	PUTFYLL	_	_
+20	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 2 3 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	sa	si	verb	verb	pret	0	FINV	_	_
+3	:	$:	clb	clb	<kolon>	2	IP	_	_
+
+# 18 19 norwegian
+1	«	$"	<anf>	<anf>	_	3	IK	_	_
+2	Det	det	pron	pron	nøyt|ent|pers|3	3	FSUBJ	_	_
+3	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+4	opplagt	opplagt	adj	adj	nøyt|ub|ent|pos	3	SPRED	_	_
+5	hvorfor	hvorfor	adv	adv	_	7	ADV	_	_
+6	jeg	jeg	pron	pron	ent|pers|hum|nom|1	7	SUBJ	_	_
+7	kommer	komme	verb	verb	pres	3	PSUBJ	_	_
+8	hit	hit	prep	prep	_	7	ADV	_	_
+9	med	med	prep	prep	_	7	ADV	_	_
+10	deg	du	pron	pron	ent|pers|hum|akk|2	9	PUTFYLL	_	_
+11	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+12	Alle	alle	pron	pron	fl|pers|3	13	SUBJ	_	_
+13	vet	vite	verb	verb	pres	3	KOORD	_	_
+14	at	at	sbu	sbu	_	16	SBU	_	_
+15	jeg	jeg	pron	pron	ent|pers|hum|nom|1	16	SUBJ	_	_
+16	er	være	verb	verb	pres|<aux1/perf_part>	13	DOBJ	_	_
+17	homofil	homofil	adj	adj	ub|m/f|ent|pos	16	SPRED	_	_
+18	nå	nå	adv	adv	_	13	ADV	_	_
+19	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 6 5 norwegian
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	SUBJ	_	_
+2	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	ok	ok	adj	adj	nøyt|ub|ent|pos	2	SPRED	_	_
+4	"	$"	<anf>	<anf>	_	2	IK	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 15 9 norwegian
+1	I	i	prep	prep	_	3	ADV	_	_
+2	1982	1982	det	det	fl|kvant	1	PUTFYLL	_	_
+3	vurderte	vurdere	verb	verb	pret	0	FINV	_	_
+4	Justin	Justin	subst	subst	prop	3	SUBJ	_	_
+5	seriøst	seriøs	adj	adj	nøyt|ub|ent|pos	3	ADV	_	_
+6	å	å	inf-merke	inf-merke	_	3	DOBJ	_	_
+7	komme	komme	verb	verb	inf	6	INFV	_	_
+8	ut	ut	prep	prep	_	7	ADV	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 42 21 norwegian
+1	-	$-	<strek>	<strek>	_	3	IK	_	_
+2	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	_
+3	mente	mene	verb	verb	pret	0	FINV	_	_
+4	han	han	pron	pron	mask|ent|pers|hum|3|nom	5	SUBJ	_	_
+5	burde	burde	verb	verb	pret|<aux1/infinitiv>	3	DOBJ	_	_
+6	vente	vente	verb	verb	inf	5	INFV	_	_
+7	til	til	sbu	sbu	_	9	SBU	_	_
+8	han	han	pron	pron	mask|ent|pers|hum|3|nom	9	SUBJ	_	_
+9	hadde	ha	verb	verb	pret|<aux1/perf_part>	6	ADV	_	_
+10	løst	løse	verb	verb	perf-part	9	INFV	_	_
+11	floken	floke	subst	subst	appell|mask|be|ent	10	DOBJ	_	_
+12	med	med	prep	prep	_	11	ATR	_	_
+13	Clough	Clough	subst	subst	prop	12	PUTFYLL	_	_
+14	og	og	konj	konj	<ikke-clb>	15	KONJ	_	_
+15	fått	få	verb	verb	perf-part|<aux1/perf_part>|pa6|<aux1/inf>	10	KOORD	_	_
+16	karrieren	karriere	subst	subst	appell|mask|be|ent	15	DOBJ	_	_
+17	tilbake	tilbake	prep	prep	_	15	ADV	_	_
+18	på	på	prep	prep	_	17	PUTFYLL	_	_
+19	rett	rett	adj	adj	ub|m/f|ent|pos	20	ATR	_	_
+20	kjøl	kjøl	subst	subst	appell|mask|ub|ent	18	PUTFYLL	_	_
+21	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 15 15 norwegian
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	_
+2	ville	ville	verb	verb	pret|<aux1/infinitiv>	0	FINV	_	_
+3	forsikre	forsikre	verb	verb	inf	2	INFV	_	_
+4	meg	jeg	pron	pron	ent|pers|hum|akk|1	3	DOBJ	_	_
+5	om	om	prep	prep	_	3	ADV	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	han	han	pron	pron	mask|ent|pers|hum|3|nom	8	SUBJ	_	_
+8	var	være	verb	verb	pret|<aux1/perf_part>	5	PUTFYLL	_	_
+9	sikker	sikker	adj	adj	ub|m/f|ent|pos	8	SPRED	_	_
+10	nok	nok	adv	adv	_	9	ADV	_	_
+11	til	til	prep	prep	_	10	ADV	_	_
+12	å	å	inf-merke	inf-merke	_	11	PUTFYLL	_	_
+13	takle	takle	verb	verb	inf	12	INFV	_	_
+14	det	det	pron	pron	nøyt|ent|pers|3	13	DOBJ	_	_
+15	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 38 21 norwegian
+1	Håpet	håp	subst	subst	appell|nøyt|be|ent	2	SUBJ	_	_
+2	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	at	at	sbu	sbu	_	6	SBU	_	_
+4	hans	hans	det	det	mask|ent|poss	5	DET	_	_
+5	målteft	målteft	subst	subst	appell|mask|ub|ent|samset	6	SUBJ	_	_
+6	skulle	skulle	verb	verb	pret|<aux1/perf_part>|<aux1/infinitiv>	2	SPRED	_	_
+7	bli	bli	verb	verb	inf|<aux1/perf_part>	6	INFV	_	_
+8	bedre	god	adj	adj	komp	7	SPRED	_	_
+9	,	$,	<komma>	<komma>	<ikke-clb>	6	IK	_	_
+10	slik	slik	adv	adv	_	11	ADV	_	_
+11	at	at	sbu	sbu	_	13	SBU	_	_
+12	Clough	Clough	subst	subst	prop	13	SUBJ	_	_
+13	skulle	skulle	verb	verb	pret|<aux1/perf_part>|<aux1/infinitiv>	6	ADV	_	_
+14	gå	gå	verb	verb	inf	13	INFV	_	_
+15	bort	bort	prep	prep	_	14	ADV	_	_
+16	fra	fra	prep	prep	_	15	PUTFYLL	_	_
+17	skepsisen	skepsis	subst	subst	appell|mask|be|ent	16	PUTFYLL	_	_
+18	til	til	prep	prep	_	17	ATR	_	_
+19	hans	hans	det	det	mask|ent|poss	20	DET	_	_
+20	seksualitet	seksualitet	subst	subst	appell|mask|ub|ent	18	PUTFYLL	_	_
+21	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 3 5 norwegian
+1	Dit	dit	prep	prep	_	2	ADV	_	_
+2	kom	komme	verb	verb	pret	0	FINV	_	_
+3	han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+4	aldri	aldri	adv	adv	_	2	ADV	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 29 12 norwegian
+1	Cloughs	Clough	subst	subst	prop|gen	2	DET	_	_
+2	ufinheter	ufinhet	subst	subst	appell|fem|ub|fl	3	SUBJ	_	_
+3	påvirket	påvirke	verb	verb	pret	0	FINV	_	_
+4	ham	han	pron	pron	mask|ent|pers|hum|3|akk	3	DOBJ	_	_
+5	slik	slik	adv	adv	_	3	ADV	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	det	det	pron	pron	nøyt|ent|pers|3	8	SUBJ	_	_
+8	ødela	ødelegge	verb	verb	pret	5	ADV	_	_
+9	spillet	spill	subst	subst	appell|nøyt|be|ent	8	DOBJ	_	_
+10	hans	hans	det	det	nøyt|ent|poss	9	DET	_	_
+11	ytterligere	ytterligere	adj	adj	nøyt|ub|ent|pos	8	ADV	_	_
+12	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 8 8 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	fanget	fange	adj	adj	ub|m/f|ent|<perf-part>	2	SPRED	_	_
+4	i	i	prep	prep	_	3	ADV	_	_
+5	en	en	det	det	mask|ent|kvant	7	DET	_	_
+6	nedadgående	nedadgående	adj	adj	ub|m/f|ent|pos	7	ATR	_	_
+7	spiral	spiral	subst	subst	appell|mask|ub|ent	4	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 5 7 norwegian
+1	Forholdet	forhold	subst	subst	appell|nøyt|be|ent	2	SUBJ	_	_
+2	gikk	gå	verb	verb	pret	0	FINV	_	_
+3	fra	fra	prep	prep	_	2	ADV	_	_
+4	vondt	vond	adj	adj	nøyt|ub|ent|pos	3	PUTFYLL	_	_
+5	til	til	prep	prep	_	3	ADV	_	_
+6	verre	vond	adj	adj	komp	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 30 9 norwegian
+1	En	en	det	det	mask|ent|kvant	2	DET	_	_
+2	morgen	morgen	subst	subst	appell|mask|ub|ent	3	ADV	_	_
+3	suspenderte	suspendere	verb	verb	pret	0	FINV	_	_
+4	Clough	Clough	subst	subst	prop	3	SUBJ	_	_
+5	Fashanu	Fashanu	subst	subst	prop	3	DOBJ	_	_
+6	fra	fra	prep	prep	_	3	ADV	_	_
+7	Forests	Forest	subst	subst	prop|gen	8	DET	_	_
+8	trening	trening	subst	subst	appell|fem|ub|ent	6	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 22 10 norwegian
+1	Fashanu	Fashanu	subst	subst	prop	2	SUBJ	_	_
+2	nektet	nekte	verb	verb	pret	0	FINV	_	_
+3	å	å	inf-merke	inf-merke	_	2	DOBJ	_	_
+4	forlate	forlate	verb	verb	inf	3	INFV	_	_
+5	treninga	trening	subst	subst	appell|fem|be|ent	4	DOBJ	_	_
+6	og	og	konj	konj	clb	8	KONJ	_	_
+7	Clough	Clough	subst	subst	prop	8	SUBJ	_	_
+8	fikk	få	verb	verb	pret|<aux1/perf_part>|pa6|<aux1/inf>	2	KOORD	_	_
+9	nok	nok	adv	adv	_	8	DOBJ	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 10 13 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	sendte	sende	verb	verb	pret	0	FINV	_	_
+3	bud	bud	subst	subst	appell|nøyt|ub|ent	2	DOBJ	_	_
+4	på	på	prep	prep	_	2	ADV	_	_
+5	politiet	politi	subst	subst	appell|nøyt|be|ent	4	PUTFYLL	_	_
+6	,	$,	<komma>	<komma>	<ikke-clb>	5	IK	_	_
+7	som	som	sbu	sbu	_	8	SBUREL	_	_
+8	kom	komme	verb	verb	pret	5	ATR	_	_
+9	og	og	konj	konj	<ikke-clb>	10	KONJ	_	_
+10	eskortere	eskortere	verb	verb	pret|unorm	8	KOORD	_	_
+11	spilleren	spiller	subst	subst	appell|mask|be|ent	10	DOBJ	_	_
+12	bort	bort	prep	prep	_	10	ADV	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 239 35 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	hadde	ha	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	fått	få	verb	verb	perf-part|<aux1/perf_part>|pa6|<aux1/inf>	2	INFV	_	_
+4	sin	sin	det	det	mask|ent|poss	5	DET	_	_
+5	del	del	subst	subst	appell|mask|ub|ent	3	DOBJ	_	_
+6	av	av	prep	prep	_	5	ATR	_	_
+7	avvisninger	avvisning	subst	subst	appell|fem|ub|fl	6	PUTFYLL	_	_
+8	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+9	fra	fra	prep	prep	_	3	ADV	_	_
+10	fødselen	fødsel	subst	subst	appell|mask|be|ent	9	PUTFYLL	_	_
+11	av	av	prep	prep	_	10	ATR	_	_
+12	,	$,	<komma>	<komma>	<ikke-clb>	9	IK	_	_
+13	gitt	gi	adj	adj	ub|m/f|ent|<perf-part>	3	FSPRED	_	_
+14	opp	opp	prep	prep	_	13	ADV	_	_
+15	av	av	prep	prep	_	13	ADV	_	_
+16	sine	sin	det	det	fl|poss	17	DET	_	_
+17	foreldre	forelder	subst	subst	appell|mask|ub|fl	15	PUTFYLL	_	_
+18	og	og	konj	konj	<ikke-clb>	19	KONJ	_	_
+19	plassert	plassere	adj	adj	ub|m/f|ent|<perf-part>	13	KOORD	_	_
+20	i	i	prep	prep	_	19	ADV	_	_
+21	fosterhjem	fosterhjem	subst	subst	appell|nøyt|ub|ent	20	PUTFYLL	_	_
+22	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+23	rasismen	rasisme	subst	subst	appell|mask|be|ent	2	KOORD-ELL	_	_
+24	på	på	prep	prep	_	23	ATR	_	_
+25	banen	bane	subst	subst	appell|mask|be|ent	24	PUTFYLL	_	_
+26	,	$,	<komma>	<komma>	<ikke-clb>	23	IK	_	_
+27	folk	folk	subst	subst	appell|nøyt|ub|fl	28	SUBJ	_	_
+28	laget	lage	verb	verb	pret	2	KOORD	_	_
+29	apelyder	apelyd	subst	subst	appell|mask|ub|fl|samset	28	DOBJ	_	_
+30	og	og	konj	konj	clb	31	KONJ	_	_
+31	kastet	kaste	verb	verb	pret	28	KOORD	_	_
+32	bananer	banan	subst	subst	appell|mask|ub|fl	31	DOBJ	_	_
+33	på	på	prep	prep	_	31	ADV	_	_
+34	ham	han	pron	pron	mask|ent|pers|hum|3|akk	33	PUTFYLL	_	_
+35	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 21 17 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	desperat	desperat	adj	adj	ub|m/f|ent|pos	2	SPRED	_	_
+4	etter	etter	prep	prep	_	3	ADV	_	_
+5	emosjonelle	emosjonell	adj	adj	fl|pos	6	ATR	_	_
+6	bekreftelser	bekreftelse	subst	subst	appell|mask|ub|fl	4	PUTFYLL	_	_
+7	og	og	konj	konj	clb	8	KONJ	_	_
+8	vendte	vende	verb	verb	pret	2	KOORD	_	_
+9	seg	seg	pron	pron	akk|refl	8	DOBJ	_	_
+10	til	til	prep	prep	_	8	ADV	_	_
+11	dem	de	pron	pron	fl|pers|3|akk	10	PUTFYLL	_	_
+12	jeg	jeg	pron	pron	ent|pers|hum|nom|1	13	SUBJ	_	_
+13	så	se	verb	verb	pret	11	ATR	_	_
+14	som	som	prep	prep	_	13	FSPRED	_	_
+15	fundamentalt	fundamental	adj	adj	nøyt|ub|ent|pos	16	ADV	_	_
+16	kristne	kristen	adj	adj	fl|pos	14	PUTFYLL	_	_
+17	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 23 9 norwegian
+1	Som	som	sbu	sbu	_	2	SBUREL	_	_
+2	ser	se	verb	verb	pres	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	homoseksualitet	homoseksualitet	subst	subst	appell|mask|ub|ent	3	PUTFYLL	_	_
+5	som	som	prep	prep	_	2	FOPRED	_	_
+6	en	en	det	det	mask|ent|kvant	8	DET	_	_
+7	fryktelig	fryktelig	adj	adj	ub|m/f|ent|pos	8	ATR	_	_
+8	synd	synd	subst	subst	appell|mask|ub|ent	5	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 6 7 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	ble	bli	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	ulykkelig	ulykkelig	adj	adj	ub|m/f|ent|pos	2	SPRED	_	_
+4	rundt	rundt	prep	prep	_	3	ADV	_	_
+5	sin	sin	det	det	mask|ent|poss	6	DET	_	_
+6	legning	legning	subst	subst	appell|mask|ub|ent	4	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 31 18 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	hadde	ha	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	bytta	bytte	verb	verb	perf-part	2	INFV	_	_
+4	ut	ut	prep	prep	_	3	ADV	_	_
+5	trakasseringa	trakassering	subst	subst	appell|fem|be|ent	3	DOBJ	_	_
+6	i	i	prep	prep	_	3	ADV	_	_
+7	fotball	fotball	subst	subst	appell|mask|ub|ent	6	PUTFYLL	_	_
+8	med	med	prep	prep	_	3	ADV	_	_
+9	trusselen	trussel	subst	subst	appell|mask|be|ent	8	PUTFYLL	_	_
+10	om	om	prep	prep	_	9	ATR	_	_
+11	å	å	inf-merke	inf-merke	_	10	PUTFYLL	_	_
+12	bli	bli	verb	verb	inf|<aux1/perf_part>	11	INFV	_	_
+13	brent	brenne	verb	verb	perf-part	12	INFV	_	_
+14	i	i	prep	prep	_	13	ADV	_	_
+15	helvete	helvete	subst	subst	appell|nøyt|ub|ent	14	PUTFYLL	_	_
+16	av	av	prep	prep	_	13	ADV	_	_
+17	fordømmelse	fordømmelse	subst	subst	appell|mask|ub|ent	16	PUTFYLL	_	_
+18	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 5 6 norwegian
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	SUBJ	_	_
+2	topper	toppe	verb	verb	pres	0	FINV	_	_
+3	seg	seg	pron	pron	akk|refl	2	DOBJ	_	_
+4	for	for	prep	prep	_	2	ADV	_	_
+5	folk	folk	subst	subst	appell|nøyt|ub|fl	4	PUTFYLL	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 6 8 norwegian
+1	-	$-	<strek>	<strek>	_	3	IK	_	_
+2	Justin	Justin	subst	subst	prop	3	SUBJ	_	_
+3	innledet	innlede	verb	verb	pret	0	FINV	_	_
+4	desperate	desperat	adj	adj	fl|pos	5	ATR	_	_
+5	forhold	forhold	subst	subst	appell|nøyt|ub|fl	3	DOBJ	_	_
+6	til	til	prep	prep	_	5	ATR	_	_
+7	kvinner	kvinne	subst	subst	appell|fem|ub|fl	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 39 22 norwegian
+1	Mens	mens	sbu	sbu	_	3	SBU	_	_
+2	han	han	pron	pron	mask|ent|pers|hum|3|nom	3	SUBJ	_	_
+3	gikk	gå	verb	verb	pret	13	ADV	_	_
+4	ut	ut	prep	prep	_	3	ADV	_	_
+5	og	og	konj	konj	clb	6	KONJ	_	_
+6	sa	si	verb	verb	pret	3	KOORD	_	_
+7	han	han	pron	pron	mask|ent|pers|hum|3|nom	8	SUBJ	_	_
+8	levde	leve	verb	verb	pret	6	DOBJ	_	_
+9	i	i	prep	prep	_	8	ADV	_	_
+10	kristent	kristen	adj	adj	nøyt|ub|ent|pos	11	ATR	_	_
+11	sølibat	sølibat	subst	subst	appell|nøyt|ub|ent	9	PUTFYLL	_	_
+12	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+13	endte	ende	verb	verb	pret	0	FINV	_	_
+14	han	han	pron	pron	mask|ent|pers|hum|3|nom	13	SUBJ	_	_
+15	opp	opp	prep	prep	_	13	ADV	_	_
+16	med	med	prep	prep	_	13	ADV	_	_
+17	å	å	inf-merke	inf-merke	_	16	PUTFYLL	_	_
+18	ty	ty	verb	verb	inf	17	INFV	_	_
+19	til	til	prep	prep	_	18	ADV	_	_
+20	hemmelig	hemmelig	adj	adj	ub|m/f|ent|pos	21	ATR	_	_
+21	homsesex	homsesex	subst	subst	appell|mask|ub|ent|samset	19	PUTFYLL	_	_
+22	.	$.	clb	clb	<punkt>	13	IP	_	_
+
+# 37 11 norwegian
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	SUBJ	_	_
+2	gjorde	gjøre	verb	verb	pret	0	FINV	_	_
+3	det	det	pron	pron	nøyt|ent|pers|3	2	FOBJ	_	_
+4	umulig	umulig	adj	adj	nøyt|ub|ent|pos	2	OPRED	_	_
+5	for	for	prep	prep	_	4	ADV	_	_
+6	ham	han	pron	pron	mask|ent|pers|hum|3|akk	5	PUTFYLL	_	_
+7	å	å	inf-merke	inf-merke	_	2	POBJ	_	_
+8	ha	ha	verb	verb	inf|<aux1/perf_part>	7	INFV	_	_
+9	varige	varig	adj	adj	fl|pos	10	ATR	_	_
+10	forhold	forhold	subst	subst	appell|nøyt|ub|fl	8	DOBJ	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 34 11 norwegian
+1	Hjelpeløs	hjelpeløs	adj	adj	ub|m/f|ent|pos	2	FSPRED	_	_
+2	hoppet	hoppe	verb	verb	pret	0	FINV	_	_
+3	Fashanu	Fashanu	subst	subst	prop	2	SUBJ	_	_
+4	på	på	prep	prep	_	2	ADV	_	_
+5	den	den	det	det	dem|mask|ent	7	DET	_	_
+6	ene	ene	det	det	be|ent|kvant	7	DET	_	_
+7	redningsflåten	redningsflåte	subst	subst	appell|mask|be|ent	4	PUTFYLL	_	_
+8	etter	etter	prep	prep	_	7	ATR	_	_
+9	den	den	det	det	dem|mask|ent	10	DET	_	_
+10	andre	annen	det	det	dem|be|ent|<adj>	8	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 90 22 norwegian
+1	Ifølge	ifølge	prep	prep	_	14	ADV	_	_
+2	Betty	Betty	subst	subst	prop	1	PUTFYLL	_	_
+3	og	og	konj	konj	<ikke-clb>	6	KONJ	_	_
+4	Alfs	Alf	subst	subst	prop|mask|gen	5	DET	_	_
+5	sønn	sønn	subst	subst	appell|mask|ub|ent	6	APP	_	_
+6	Edward	Edward	subst	subst	prop	2	KOORD	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	6	IK	_	_
+8	15	15	det	det	fl|kvant	9	DET	_	_
+9	år	år	subst	subst	appell|nøyt|ub|fl	10	ADV	_	_
+10	eldre	gammel	adj	adj	komp	6	ATR	_	_
+11	enn	enn	prep	prep	_	10	ADV	_	_
+12	Fashanu	Fashanu	subst	subst	prop	11	PUTFYLL	_	_
+13	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+14	hadde	ha	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+15	Justin	Justin	subst	subst	prop	14	SUBJ	_	_
+16	de	de	det	det	dem|fl	20	DET	_	_
+17	«	$"	<anf>	<anf>	_	20	IK	_	_
+18	mest	mye	adj	adj	ub|sup	19	ADV	_	_
+19	traumatiske	traumatisk	adj	adj	fl|pos	20	ATR	_	_
+20	mareritt	mareritt	subst	subst	appell|nøyt|ub|fl	14	DOBJ	_	_
+21	»	$"	<anf>	<anf>	_	20	IK	_	_
+22	.	$.	clb	clb	<punkt>	14	IP	_	_
+
+# 33 19 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	satte	sette	verb	verb	pret	0	FINV	_	_
+3	seg	seg	pron	pron	akk|refl	2	DOBJ	_	_
+4	opp	opp	prep	prep	_	2	ADV	_	_
+5	i	i	prep	prep	_	2	ADV	_	_
+6	senga	seng	subst	subst	appell|fem|be|ent	5	PUTFYLL	_	_
+7	i	i	prep	prep	<contok>	2	ADV	_	_
+8	søvne	søvne	ufl	ufl	_	7	PUTFYLL	_	_
+9	og	og	konj	konj	clb	10	KONJ	_	_
+10	slo	slå	verb	verb	pret	2	KOORD	_	_
+11	,	$,	<komma>	<komma>	<ikke-clb>	10	IK	_	_
+12	som	som	prep	prep	_	10	ADV	_	_
+13	om	om	sbu	sbu	_	15	SBU	_	_
+14	han	han	pron	pron	mask|ent|pers|hum|3|nom	15	SUBJ	_	_
+15	skulle	skulle	verb	verb	pret|<aux1/perf_part>|<aux1/infinitiv>	12	PUTFYLL	_	_
+16	kjempet	kjempe	verb	verb	perf-part	15	INFV	_	_
+17	ned	ned	prep	prep	_	16	ADV	_	_
+18	inntrengere	inntrenger	subst	subst	appell|mask|ub|fl	16	DOBJ	_	_
+19	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 16 20 norwegian
+1	Da	da	sbu	sbu	_	3	SBU	_	_
+2	han	han	pron	pron	mask|ent|pers|hum|3|nom	3	SUBJ	_	_
+3	var	være	verb	verb	pret|<aux1/perf_part>	8	ADV	_	_
+4	15	15	det	det	fl|kvant	3	SPRED	_	_
+5	eller	eller	konj	konj	<ikke-clb>	6	KONJ	_	_
+6	16	16	det	det	fl|kvant	4	KOORD	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+8	slo	slå	verb	verb	pret	0	FINV	_	_
+9	han	han	pron	pron	mask|ent|pers|hum|3|nom	8	SUBJ	_	_
+10	gjennom	gjennom	prep	prep	_	8	ADV	_	_
+11	soveromsvinduet	soveromsvindu	subst	subst	appell|nøyt|be|ent	10	PUTFYLL	_	_
+12	sitt	sin	det	det	nøyt|ent|poss	11	DET	_	_
+13	og	og	konj	konj	clb	14	KONJ	_	_
+14	sendte	sende	verb	verb	pret	8	KOORD	_	_
+15	knust	knuse	adj	adj	nøyt|ub|ent|<perf-part>	16	ATR	_	_
+16	glass	glass	subst	subst	appell|nøyt|ub|ent	14	DOBJ	_	_
+17	ned	ned	prep	prep	_	14	ADV	_	_
+18	på	på	prep	prep	_	17	PUTFYLL	_	_
+19	plenen	plen	subst	subst	appell|mask|be|ent	18	PUTFYLL	_	_
+20	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# 9 11 norwegian
+1	Noe	noen	det	det	nøyt|ent|kvant	2	DET	_	_
+2	liknende	liknende	adj	adj	nøyt|ub|ent|pos	3	SUBJ	_	_
+3	skjedde	skje	verb	verb	pret	0	FINV	_	_
+4	i	i	prep	prep	_	3	ADV	_	_
+5	voksen	voksen	adj	adj	ub|m/f|ent|pos	6	ATR	_	_
+6	alder	alder	subst	subst	appell|mask|ub|ent	4	PUTFYLL	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+8	ifølge	ifølge	prep	prep	_	3	ADV	_	_
+9	Cloughs	Clough	subst	subst	prop|gen	10	DET	_	_
+10	biografi	biografi	subst	subst	appell|mask|ub|ent	8	PUTFYLL	_	_
+11	:	$:	clb	clb	<kolon>	3	IP	_	_
+
+# 65 26 norwegian
+1	Nottingham	Nottingham	subst	subst	prop	3	SUBJ	_	_
+2	Forest	Forest	subst	subst	prop	1	FLAT	_	_
+3	bodde	bo	verb	verb	pret	0	FINV	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	et	en	det	det	nøyt|ent|kvant	7	DET	_	_
+6	spansk	spansk	adj	adj	nøyt|ub|ent|pos	7	ATR	_	_
+7	hotell	hotell	subst	subst	appell|nøyt|ub|ent	4	PUTFYLL	_	_
+8	og	og	konj	konj	<ikke-clb>	10	KONJ	_	_
+9	lagkameratene	lagkamerat	subst	subst	appell|mask|be|fl	10	SUBJ	_	_
+10	våknet	våkne	verb	verb	pret	3	KOORD	_	_
+11	klokka	klokke	subst	subst	appell|fem|be|ent	12	ADV	_	_
+12	to	to	det	det	fl|kvant	10	ADV	_	_
+13	på	på	prep	prep	_	12	ADV	_	_
+14	natta	natt	subst	subst	appell|fem|be|ent	13	PUTFYLL	_	_
+15	«	$"	<anf>	<anf>	_	16	IK	_	_
+16	av	av	prep	prep	_	10	ADV	_	_
+17	en	en	det	det	mask|ent|kvant	18	DET	_	_
+18	lyd	lyd	subst	subst	appell|mask|ub|ent	16	PUTFYLL	_	_
+19	som	som	sbu	sbu	_	20	SBUREL	_	_
+20	liknet	likne	verb	verb	pret	18	ATR	_	_
+21	et	en	det	det	nøyt|ent|kvant	22	DET	_	_
+22	pistolskudd	pistolskudd	subst	subst	appell|nøyt|ub|ent	20	DOBJ	_	_
+23	fra	fra	prep	prep	_	18	ATR	_	_
+24	Justins	Justin	subst	subst	prop|gen	25	DET	_	_
+25	hotellrom	hotellrom	subst	subst	appell|nøyt|ub|ent	23	PUTFYLL	_	_
+26	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 12 9 norwegian
+1	Døra	dør	subst	subst	appell|fem|be|ent	2	SUBJ	_	_
+2	hadde	ha	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	et	en	det	det	nøyt|ent|kvant	5	DET	_	_
+4	digert	diger	adj	adj	nøyt|ub|ent|pos	5	ATR	_	_
+5	hull	hull	subst	subst	appell|nøyt|ub|ent	2	DOBJ	_	_
+6	rett	rett	adj	adj	nøyt|ub|ent|pos	7	ADV	_	_
+7	gjennom	gjennom	prep	prep	_	2	ADV	_	_
+8	midten	midt	subst	subst	appell|mask|be|ent	7	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 27 9 norwegian
+1	Fashanu	Fashanu	subst	subst	prop	2	SUBJ	_	_
+2	hadde	ha	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	hatt	ha	verb	verb	perf-part|<aux1/perf_part>	2	INFV	_	_
+4	et	en	det	det	nøyt|ent|kvant	5	DET	_	_
+5	mareritt	mareritt	subst	subst	appell|nøyt|ub|ent	3	DOBJ	_	_
+6	»	$"	<anf>	<anf>	_	2	IK	_	_
+7	skriver	skrive	verb	verb	pres	2	PAR	_	_
+8	Clough	Clough	subst	subst	prop	7	SUBJ	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 113 18 norwegian
+1	Vi	vi	pron	pron	fl|pers|hum|nom|1	2	SUBJ	_	_
+2	ringer	ringe	verb	verb	pres	0	FINV	_	_
+3	Einar	Einar	subst	subst	prop|mask	2	DOBJ	_	_
+4	Aas	Aas	subst	subst	prop	3	FLAT	_	_
+5	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+6	Norges	Norge	subst	subst	prop|gen	9	DET	_	_
+7	første	første	adj	adj	be|ent|pos|<ordenstall>	9	ATR	_	_
+8	engelske	engelsk	adj	adj	be|ent|pos	9	ATR	_	_
+9	fotballproff	fotballproff	subst	subst	appell|mask|ub|ent	3	APP	_	_
+10	,	$,	<komma>	<komma>	<ikke-clb>	9	IK	_	_
+11	som	som	sbu	sbu	_	12	SBUREL	_	_
+12	spilte	spille	verb	verb	pret	9	ATR	_	_
+13	sammen	sammen	adv	adv	_	14	ADV	_	_
+14	med	med	prep	prep	_	12	ADV	_	_
+15	Justin	Justin	subst	subst	prop	14	PUTFYLL	_	_
+16	i	i	prep	prep	_	12	ADV	_	_
+17	Forest	Forest	subst	subst	prop	16	PUTFYLL	_	_
+18	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 30 20 norwegian
+1	-	$-	<strek>	<strek>	_	3	IK	_	_
+2	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	_
+3	debuterte	debutere	verb	verb	pret	0	FINV	_	_
+4	faktisk	faktisk	adj	adj	nøyt|ub|ent|pos	3	ADV	_	_
+5	mot	mot	prep	prep	_	3	ADV	_	_
+6	ham	han	pron	pron	mask|ent|pers|hum|3|akk	5	PUTFYLL	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	6	IK	_	_
+8	en	en	det	det	mask|ent|kvant	10	DET	_	_
+9	svær	svær	adj	adj	ub|m/f|ent|pos	10	ATR	_	_
+10	elg	elg	subst	subst	appell|mask|ub|ent	6	APP	_	_
+11	av	av	prep	prep	_	10	ATR	_	_
+12	en	en	det	det	mask|ent|kvant	13	DET	_	_
+13	spiss	spiss	subst	subst	appell|mask|ub|ent	11	PUTFYLL	_	_
+14	,	$,	<komma>	<komma>	<ikke-clb>	10	IK	_	_
+15	da	da	sbu	sbu	_	17	SBU	_	_
+16	han	han	pron	pron	mask|ent|pers|hum|3|nom	17	SUBJ	_	_
+17	spilte	spille	verb	verb	pret	3	ADV	_	_
+18	for	for	prep	prep	_	17	ADV	_	_
+19	Norwich	Norwich	subst	subst	prop	18	PUTFYLL	_	_
+20	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 84 7 norwegian
+1	Noen	noen	det	det	fl|kvant	2	DET	_	_
+2	måneder	måned	subst	subst	appell|mask|ub|fl	4	ADV	_	_
+3	seinere	sein	adj	adj	komp	2	ATR	_	_
+4	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+5	vi	vi	pron	pron	fl|pers|hum|nom|1	4	SUBJ	_	_
+6	lagkamerater	lagkamerat	subst	subst	appell|mask|ub|fl	4	SPRED	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# 57 17 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	hadde	ha	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	det	det	pron	pron	nøyt|ent|pers|3	2	FOBJ	_	_
+4	tilsynelatende	tilsynelatende	adj	adj	nøyt|ub|ent|pos	2	ADV	_	_
+5	bra	bra	adj	adj	nøyt|ub|ent|pos	2	OPRED	_	_
+6	her	her	prep	prep	_	2	ADV	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+8	men	men	konj	konj	clb	10	KONJ	_	_
+9	gudene	gud	subst	subst	appell|mask|be|fl	10	SUBJ	_	_
+10	vet	vite	verb	verb	pres	2	KOORD	_	_
+11	hva	hva	pron	pron	sp	13	SUBJ	_	_
+12	som	som	sbu	sbu	_	13	SBUREL	_	_
+13	rørte	røre	verb	verb	pret	10	DOBJ	_	_
+14	seg	seg	pron	pron	akk|refl	13	DOBJ	_	_
+15	inni	inni	prep	prep	_	13	ADV	_	_
+16	ham	han	pron	pron	mask|ent|pers|hum|3|akk	15	PUTFYLL	_	_
+17	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 21 6 norwegian
+1	Og	og	konj	konj	clb	2	KONJ	_	_
+2	det	det	pron	pron	nøyt|ent|pers|3	0	FRAG	_	_
+3	som	som	sbu	sbu	_	4	SBUREL	_	_
+4	kom	komme	verb	verb	pret	2	ATR	_	_
+5	siden	siden	adv	adv	_	4	ADV	_	_
+6	...	$...	clb	clb	<ellipse>	2	IP	_	_
+
+# 6 7 norwegian
+1	Justin	Justin	subst	subst	prop	2	SUBJ	_	_
+2	kunne	kunne	verb	verb	pret|<aux1/infinitiv>	0	FINV	_	_
+3	vært	være	verb	verb	perf-part|<aux1/perf_part>	2	INFV	_	_
+4	spiss	spiss	subst	subst	appell|mask|ub|ent	3	SPRED	_	_
+5	for	for	prep	prep	_	4	ATR	_	_
+6	England	England	subst	subst	prop	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 2 4 norwegian
+1	Alle	alle	pron	pron	fl|pers|3	2	SUBJ	_	_
+2	vet	vite	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	nøyt|ent|pers|3	2	DOBJ	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 20 10 norwegian
+1	Nei	nei	interj	interj	_	4	INTERJ	_	_
+2	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+3	det	det	pron	pron	nøyt|ent|pers|3	4	SUBJ	_	_
+4	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+5	bare	bare	adv	adv	_	4	ADV	_	_
+6	tragisk	tragisk	adj	adj	nøyt|ub|ent|pos	4	SPRED	_	_
+7	det	det	pron	pron	nøyt|ent|pers|3	3	APP	_	_
+8	som	som	sbu	sbu	_	9	SBUREL	_	_
+9	skjedde	skje	verb	verb	pret	7	ATR	_	_
+10	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# 9 8 norwegian
+1	Mrs.	Mrs.	subst	subst	fork	2	DET	_	_
+2	Barnard	Barnard	subst	subst	prop	7	SUBJ	_	_
+3	hos	hos	prep	prep	_	2	ATR	_	_
+4	den	den	det	det	dem|mask|ent	6	DET	_	_
+5	lokale	lokal	adj	adj	be|ent|pos	6	ATR	_	_
+6	slakteren	slakter	subst	subst	appell|mask|be|ent	3	PUTFYLL	_	_
+7	sier	si	verb	verb	pres	0	FINV	_	_
+8	:	$:	clb	clb	<kolon>	7	IP	_	_
+
+# 6 5 norwegian
+1	Fosterforeldrene	fosterforelder	subst	subst	appell|mask|be|fl	2	SUBJ	_	_
+2	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	døde	død	adj	adj	fl|pos	2	SPRED	_	_
+4	nå	nå	adv	adv	_	2	ADV	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 33 15 norwegian
+1	Både	både	konj	konj	<ikke-clb>|<adv>	2	KONJ	_	_
+2	Justin	Justin	subst	subst	prop	6	SUBJ	_	_
+3	og	og	konj	konj	<ikke-clb>	5	KONJ	_	_
+4	broren	bror	subst	subst	appell|mask|be|ent	5	APP	_	_
+5	John	John	subst	subst	prop|mask	2	KOORD	_	_
+6	kom	komme	verb	verb	pret	0	FINV	_	_
+7	ofte	ofte	adj	adj	pos|<adv>	6	ADV	_	_
+8	på	på	prep	prep	_	6	ADV	_	_
+9	besøk	besøk	subst	subst	appell|nøyt|ub|ent	8	PUTFYLL	_	_
+10	etter	etter	prep	prep	<contok>	6	ADV	_	_
+11	at	at	sbu	sbu	_	13	SBU	_	_
+12	de	de	pron	pron	fl|pers|3|nom	13	SUBJ	_	_
+13	flyttet	flytte	verb	verb	pret	10	PUTFYLL	_	_
+14	ut	ut	prep	prep	_	13	ADV	_	_
+15	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# 20 6 norwegian
+1	Her	her	prep	prep	_	4	ADV	_	_
+2	kunne	kunne	verb	verb	pret|<aux1/infinitiv>	0	FINV	_	_
+3	de	de	pron	pron	fl|pers|3|nom	2	SUBJ	_	_
+4	få	få	verb	verb	inf|<aux1/perf_part>|pa6|<aux1/inf>	2	INFV	_	_
+5	fred	fred	subst	subst	appell|mask|ub|ent	4	DOBJ	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 9 8 norwegian
+1	I	i	prep	prep	_	3	ADV	_	_
+2	1990	1990	det	det	fl|kvant	1	PUTFYLL	_	_
+3	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+4	Justin	Justin	subst	subst	prop	3	SUBJ	_	_
+5	syk	syk	adj	adj	ub|m/f|ent|pos	3	SPRED	_	_
+6	av	av	prep	prep	_	5	ADV	_	_
+7	homofobien	homofobi	subst	subst	appell|mask|be|ent	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 105 20 norwegian
+1	Da	da	sbu	sbu	_	3	SBU	_	_
+2	han	han	pron	pron	mask|ent|pers|hum|3|nom	3	SUBJ	_	_
+3	kom	komme	verb	verb	pret	10	ADV	_	_
+4	ut	ut	prep	prep	_	3	ADV	_	_
+5	som	som	prep	prep	_	3	SPRED	_	_
+6	homofil	homofil	adj	adj	ub|m/f|ent|pos	5	PUTFYLL	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+8	ble	bli	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+9	han	han	pron	pron	mask|ent|pers|hum|3|nom	8	SUBJ	_	_
+10	fordømt	fordømme	verb	verb	perf-part	8	INFV	_	_
+11	av	av	prep	prep	_	10	ADV	_	_
+12	sitt	sin	det	det	nøyt|ent|poss	15	DET	_	_
+13	eget	egen	det	det	nøyt|ub|ent|<adj>|forst	15	DET	_	_
+14	svarte	svart	adj	adj	be|ent|pos	15	ATR	_	_
+15	miljø	miljø	subst	subst	appell|nøyt|ub|ent	11	PUTFYLL	_	_
+16	,	$,	<komma>	<komma>	<ikke-clb>	15	IK	_	_
+17	inkludert	inkludere	adj	adj	nøyt|ub|ent|<perf-part>	15	ATR	_	_
+18	sin	sin	det	det	mask|ent|poss	19	DET	_	_
+19	bror	bror	subst	subst	appell|mask|ub|ent	17	DOBJ	_	_
+20	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# 41 13 norwegian
+1	«	$"	<anf>	<anf>	_	2	IK	_	_
+2	My	My	ukjent	ukjent	<contok>	0	FRAG	_	_
+3	gay	gay	ukjent	ukjent	_	2	FLAT	_	_
+4	brother	brother	ukjent	ukjent	_	2	FLAT	_	_
+5	is	is	ukjent	ukjent	_	2	FLAT	_	_
+6	an	an	ukjent	ukjent	_	2	FLAT	_	_
+7	outcast	outcast	ukjent	ukjent	_	2	FLAT	_	_
+8	»	$"	<anf>	<anf>	_	2	IK	_	_
+9	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+10	uttalte	uttale	verb	verb	pret	2	PAR	_	_
+11	broren	bror	subst	subst	appell|mask|be|ent	12	APP	_	_
+12	John	John	subst	subst	prop|mask	10	SUBJ	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 73 19 norwegian
+1	I	i	prep	prep	_	4	ADV	_	_
+2	et	en	det	det	nøyt|ent|kvant	3	DET	_	_
+3	tv-intervju	tv-intervju	subst	subst	appell|nøyt|ub|ent	1	PUTFYLL	_	_
+4	erklærte	erklære	verb	verb	pret	0	FINV	_	_
+5	han	han	pron	pron	mask|ent|pers|hum|3|nom	4	SUBJ	_	_
+6	at	at	sbu	sbu	_	9	SBU	_	_
+7	han	han	pron	pron	mask|ent|pers|hum|3|nom	9	SUBJ	_	_
+8	ikke	ikke	adv	adv	_	10	ADV	_	_
+9	ville	ville	verb	verb	pret|<aux1/infinitiv>	4	DOBJ	_	_
+10	gå	gå	verb	verb	inf	9	INFV	_	_
+11	inn	inn	prep	prep	_	10	ADV	_	_
+12	i	i	prep	prep	_	11	PUTFYLL	_	_
+13	en	en	det	det	mask|ent|kvant	14	DET	_	_
+14	dusj	dusj	subst	subst	appell|mask|ub|ent	12	PUTFYLL	_	_
+15	med	med	prep	prep	_	14	ATR	_	_
+16	en	en	det	det	mask|ent|kvant	18	DET	_	_
+17	homofil	homofil	adj	adj	ub|m/f|ent|pos	18	ATR	_	_
+18	fotballspiller	fotballspiller	subst	subst	appell|mask|ub|ent	15	PUTFYLL	_	_
+19	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# 64 8 norwegian
+1	Peter	Peter	subst	subst	prop|mask	3	SUBJ	_	_
+2	Tatchell	Tatchell	subst	subst	prop	1	FLAT	_	_
+3	husker	huske	verb	verb	pres	0	FINV	_	_
+4	hvor	hvor	adv	adv	_	5	ADV	_	_
+5	nedtrykt	nedtrykt	adj	adj	ub|m/f|ent|pos	7	SPRED	_	_
+6	Justin	Justin	subst	subst	prop	7	SUBJ	_	_
+7	var	være	verb	verb	pret|<aux1/perf_part>	3	DOBJ	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 29 14 norwegian
+1	-	$-	<strek>	<strek>	_	3	IK	_	_
+2	Han	han	pron	pron	mask|ent|pers|hum|3|nom	3	SUBJ	_	_
+3	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+4	veldig	veldig	adj	adj	nøyt|ub|ent|pos	5	ADV	_	_
+5	lei	lei	adj	adj	ub|m/f|ent|pos	3	SPRED	_	_
+6	seg	seg	pron	pron	akk|refl	5	DOBJ	_	_
+7	for	for	prep	prep	_	5	ADV	_	_
+8	at	at	sbu	sbu	_	10	SBU	_	_
+9	John	John	subst	subst	prop|mask	10	SUBJ	_	_
+10	tok	ta	verb	verb	pret	7	PUTFYLL	_	_
+11	avstand	avstand	subst	subst	appell|mask|ub|ent	10	DOBJ	_	_
+12	fra	fra	prep	prep	_	10	ADV	_	_
+13	ham	han	pron	pron	mask|ent|pers|hum|3|akk	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 18 4 norwegian
+1	Grusomt	grusom	adj	adj	nøyt|ub|ent|pos	2	ADV	_	_
+2	lei	lei	adj	adj	ub|m/f|ent|pos	0	FRAG	_	_
+3	seg	seg	pron	pron	akk|refl	2	DOBJ	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 7 12 norwegian
+1	John	John	subst	subst	prop|mask	2	SUBJ	_	_
+2	unnskyldte	unnskylde	verb	verb	pret	0	FINV	_	_
+3	seg	seg	pron	pron	akk|refl	2	DOBJ	_	_
+4	seinere	sein	adj	adj	komp	2	ADV	_	_
+5	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+6	men	men	konj	konj	clb	8	KONJ	_	_
+7	Justin	Justin	subst	subst	prop	8	SUBJ	_	_
+8	kom	komme	verb	verb	pret	2	KOORD	_	_
+9	aldri	aldri	adv	adv	_	8	ADV	_	_
+10	over	over	prep	prep	_	8	ADV	_	_
+11	det	det	pron	pron	nøyt|ent|pers|3	10	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 37 22 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	sa	si	verb	verb	pret	0	FINV	_	_
+3	at	at	sbu	sbu	_	6	SBU	_	_
+4	han	han	pron	pron	mask|ent|pers|hum|3|nom	6	SUBJ	_	_
+5	aldri	aldri	adv	adv	_	6	ADV	_	_
+6	angret	angre	verb	verb	pret	2	DOBJ	_	_
+7	på	på	prep	prep	_	6	ADV	_	_
+8	at	at	sbu	sbu	_	10	SBU	_	_
+9	han	han	pron	pron	mask|ent|pers|hum|3|nom	10	SUBJ	_	_
+10	sto	stå	verb	verb	pret	7	PUTFYLL	_	_
+11	fram	fram	prep	prep	_	10	ADV	_	_
+12	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+13	men	men	konj	konj	clb	19	KONJ	_	_
+14	reaksjonene	reaksjon	subst	subst	appell|mask|be|fl	19	SUBJ	_	_
+15	fra	fra	prep	prep	_	14	ATR	_	_
+16	det	det	det	det	dem|nøyt|ent	18	DET	_	_
+17	svarte	svart	adj	adj	be|ent|pos	18	ATR	_	_
+18	miljøet	miljø	subst	subst	appell|nøyt|be|ent	15	PUTFYLL	_	_
+19	såret	såre	verb	verb	pret	2	KOORD	_	_
+20	ham	han	pron	pron	mask|ent|pers|hum|3|akk	19	DOBJ	_	_
+21	dypt	dyp	adj	adj	nøyt|ub|ent|pos	19	ADV	_	_
+22	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 28 20 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	trodde	tro	verb	verb	pret	0	FINV	_	_
+3	at	at	sbu	sbu	_	17	SBU	_	_
+4	hans	hans	det	det	fl|poss	6	DET	_	_
+5	svarte	svart	adj	adj	fl|pos	6	ATR	_	_
+6	venner	venn	subst	subst	appell|mask|ub|fl	17	SUBJ	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	6	IK	_	_
+8	som	som	sbu	sbu	_	10	SBUREL	_	_
+9	selv	selv	adv	adv	_	11	ADV	_	_
+10	hadde	ha	verb	verb	pret|<aux1/perf_part>	6	ATR	_	_
+11	kjent	kjenne	verb	verb	perf-part	10	INFV	_	_
+12	på	på	prep	prep	_	11	ADV	_	_
+13	smerten	smerte	subst	subst	appell|mask|be|ent	12	PUTFYLL	_	_
+14	ved	ved	prep	prep	_	13	ATR	_	_
+15	fordommer	fordom	subst	subst	appell|mask|ub|fl	14	PUTFYLL	_	_
+16	,	$,	<komma>	<komma>	<ikke-clb>	6	IK	_	_
+17	ville	ville	verb	verb	pret|<aux1/infinitiv>	2	DOBJ	_	_
+18	være	være	verb	verb	inf|<aux1/perf_part>	17	INFV	_	_
+19	forståelsesfulle	forståelsesfull	adj	adj	fl|pos	18	SPRED	_	_
+20	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 45 30 norwegian
+1	Selv	selv	adv	adv	_	2	ATR	_	_
+2	The	The	subst	subst	prop	9	SUBJ	_	_
+3	Voice	Voice	subst	subst	prop	2	FLAT	_	_
+4	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+5	de	de	det	det	dem|fl	7	DET	_	_
+6	svartes	svart	adj	adj	fl|pos|gen	7	ATR	_	_
+7	organ	organ	subst	subst	appell|nøyt|ub|ent	2	APP	_	_
+8	,	$,	<komma>	<komma>	<ikke-clb>	7	IK	_	_
+9	skrev	skrive	verb	verb	pret	0	FINV	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	lederplass	lederplass	subst	subst	appell|mask|ub|ent	10	PUTFYLL	_	_
+12	at	at	sbu	sbu	_	16	SBU	_	_
+13	«	$"	<anf>	<anf>	_	16	IK	_	_
+14	hans	hans	det	det	nøyt|ent|poss	15	DET	_	_
+15	valg	valg	subst	subst	appell|nøyt|ub|ent	16	SUBJ	_	_
+16	er	være	verb	verb	pres|<aux1/perf_part>	9	DOBJ	_	_
+17	et	en	det	det	nøyt|ent|kvant	18	DET	_	_
+18	opprør	opprør	subst	subst	appell|nøyt|ub|ent	16	SPRED	_	_
+19	mot	mot	prep	prep	_	18	ATR	_	_
+20	det	det	det	det	dem|nøyt|ent	22	DET	_	_
+21	svarte	svart	adj	adj	be|ent|pos	22	ATR	_	_
+22	miljøet	miljø	subst	subst	appell|nøyt|be|ent	19	PUTFYLL	_	_
+23	,	$,	<komma>	<komma>	<ikke-clb>	18	IK	_	_
+24	ødeleggende	ødelegge	adj	adj	<pres-part>	18	APP	_	_
+25	,	$,	<komma>	<komma>	<ikke-clb>	24	IK	_	_
+26	patetisk	patetisk	adj	adj	nøyt|ub|ent|pos	24	KOORD	_	_
+27	og	og	konj	konj	<ikke-clb>	28	KONJ	_	_
+28	utilgivelig	utilgivelig	adj	adj	nøyt|ub|ent|pos	24	KOORD	_	_
+29	.	$.	clb	clb	<punkt>	9	IP	_	_
+30	»	$"	clb	clb	<anf>	9	IK	_	_
+
+# 91 8 norwegian
+1	Fashanu	Fashanu	subst	subst	prop	2	SUBJ	_	_
+2	ble	bli	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	erklært	erklære	verb	verb	perf-part	2	INFV	_	_
+4	uønsket	uønsket	adj	adj	ub|m/f|ent|pos	3	SPRED	_	_
+5	av	av	prep	prep	_	3	ADV	_	_
+6	mange	mange	adj	adj	fl|pos	7	ATR	_	_
+7	klubber	klubb	subst	subst	appell|mask|ub|fl	5	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 108 11 norwegian
+1	Mange	mange	adj	adj	fl|pos	2	SUBJ	_	_
+2	gikk	gå	verb	verb	pret	0	FINV	_	_
+3	hardt	hard	adj	adj	nøyt|ub|ent|pos	2	ADV	_	_
+4	ut	ut	prep	prep	_	2	ADV	_	_
+5	mot	mot	prep	prep	_	4	PUTFYLL	_	_
+6	ham	han	pron	pron	mask|ent|pers|hum|3|akk	5	PUTFYLL	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+8	selv	selv	adv	adv	_	10	ATR	_	_
+9	tidligere	tidlig	adj	adj	komp	10	ATR	_	_
+10	lagkamerater	lagkamerat	subst	subst	appell|mask|ub|fl	1	APP	_	_
+11	:	$:	clb	clb	<kolon>	2	IP	_	_
+
+# 17 9 norwegian
+1	«	$"	<anf>	<anf>	_	3	IK	_	_
+2	Homofile	homofil	adj	adj	fl|pos	3	SUBJ	_	_
+3	har	ha	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+4	ingen	ingen	det	det	mask|ent|kvant	5	DET	_	_
+5	plass	plass	subst	subst	appell|mask|ub|ent	3	DOBJ	_	_
+6	i	i	prep	prep	_	5	ATR	_	_
+7	lagsporten	lagsport	subst	subst	appell|mask|be|ent	6	PUTFYLL	_	_
+8	»	$"	<anf>	<anf>	_	3	IK	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 9 8 norwegian
+1	-	$-	<strek>	<strek>	_	3	IK	_	_
+2	Det	det	pron	pron	nøyt|ent|pers|3	3	FSUBJ	_	_
+3	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+4	flere	mange	adj	adj	komp	5	ATR	_	_
+5	homofile	homofil	adj	adj	fl|pos	3	PSUBJ	_	_
+6	i	i	prep	prep	_	3	ADV	_	_
+7	fotballen	fotball	subst	subst	appell|mask|be|ent	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 15 10 norwegian
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	SUBJ	_	_
+2	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	en	en	det	det	mask|ent|kvant	6	DET	_	_
+4	fysisk	fysisk	adj	adj	nøyt|ub|ent|pos	6	ATR	_	_
+5	tett	tett	adj	adj	ub|m/f|ent|pos	6	ATR	_	_
+6	sport	sport	subst	subst	appell|mask|ub|ent	2	SPRED	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+8	kontret	kontre	verb	verb	pret	2	PAR	_	_
+9	Fashanu	Fashanu	subst	subst	prop	8	SUBJ	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 18 9 norwegian
+1	En	en	det	det	mask|ent|kvant	2	DET	_	_
+2	toppspiller	toppspiller	subst	subst	appell|mask|ub|ent	3	SUBJ	_	_
+3	sto	stå	verb	verb	pret	0	FINV	_	_
+4	anonymt	anonym	adj	adj	nøyt|ub|ent|pos	3	ADV	_	_
+5	fram	fram	prep	prep	_	3	ADV	_	_
+6	i	i	prep	prep	_	3	ADV	_	_
+7	Daily	Daily	subst	subst	prop	6	PUTFYLL	_	_
+8	Mirror	Mirror	subst	subst	prop	7	FLAT	_	_
+9	:	$:	clb	clb	<kolon>	3	IP	_	_
+
+# 17 12 norwegian
+1	«	$"	<anf>	<anf>	_	4	IK	_	_
+2	Slike	slik	det	det	dem|fl	3	DET	_	_
+3	uttalelser	uttalelse	subst	subst	appell|mask|ub|fl	4	SUBJ	_	_
+4	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+5	verken	verken	konj	konj	<ikke-clb>|<adv>	6	KONJ	_	_
+6	bra	bra	adj	adj	nøyt|ub|ent|pos	4	SPRED	_	_
+7	for	for	prep	prep	_	6	ADV	_	_
+8	Fashanu	Fashanu	subst	subst	prop	7	PUTFYLL	_	_
+9	selv	selv	det	det	<adj>|forst	8	DET	_	_
+10	eller	eller	konj	konj	<ikke-clb>	11	KONJ	_	_
+11	ligaen	liga	subst	subst	appell|mask|be|ent	8	KOORD	_	_
+12	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# 11 10 norwegian
+1	Dette	dette	pron	pron	nøyt|ent|pers|3	2	SUBJ	_	_
+2	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	provoserende	provosere	adj	adj	<pres-part>	2	SPRED	_	_
+4	og	og	konj	konj	clb	5	KONJ	_	_
+5	skaper	skape	verb	verb	pres	2	KOORD	_	_
+6	usikkerhet	usikkerhet	subst	subst	appell|fem|ub|ent	5	DOBJ	_	_
+7	i	i	prep	prep	_	5	ADV	_	_
+8	proff-fotballen	proff-fotball	subst	subst	appell|mask|be|ent	7	PUTFYLL	_	_
+9	»	$"	<anf>	<anf>	_	2	IK	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 2 3 norwegian
+1	Tatchell	Tatchell	subst	subst	prop	2	SUBJ	_	_
+2	sier	si	verb	verb	pres	0	FINV	_	_
+3	:	$:	clb	clb	<kolon>	2	IP	_	_
+
+# 47 30 norwegian
+1	-	$-	<strek>	<strek>	_	14	IK	_	_
+2	Selv	selv	adv	adv	_	3	ADV	_	_
+3	om	om	sbu	sbu	_	5	SBU	_	_
+4	han	han	pron	pron	mask|ent|pers|hum|3|nom	5	SUBJ	_	_
+5	sa	si	verb	verb	pret	14	ADV	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	han	han	pron	pron	mask|ent|pers|hum|3|nom	8	SUBJ	_	_
+8	følte	føle	verb	verb	pret	5	DOBJ	_	_
+9	seg	seg	pron	pron	akk|refl	8	DOBJ	_	_
+10	akseptert	akseptere	adj	adj	ub|m/f|ent|<perf-part>	8	OPRED	_	_
+11	av	av	prep	prep	_	10	ADV	_	_
+12	lagkameratene	lagkamerat	subst	subst	appell|mask|be|fl	11	PUTFYLL	_	_
+13	,	$,	<komma>	<komma>	<ikke-clb>	5	IK	_	_
+14	innrømmet	innrømme	verb	verb	pret	0	FINV	_	_
+15	han	han	pron	pron	mask|ent|pers|hum|3|nom	14	SUBJ	_	_
+16	at	at	sbu	sbu	_	18	SBU	_	_
+17	det	det	pron	pron	nøyt|ent|pers|3	18	FSUBJ	_	_
+18	haglet	hagle	verb	verb	pret|n	14	DOBJ	_	_
+19	ondskapsfulle	ondskapsfull	adj	adj	fl|pos	20	ATR	_	_
+20	spøker	spøk	subst	subst	appell|mask|ub|fl	18	PSUBJ	_	_
+21	,	$,	<komma>	<komma>	<ikke-clb>	14	IK	_	_
+22	og	og	konj	konj	clb	24	KONJ	_	_
+23	han	han	pron	pron	mask|ent|pers|hum|3|nom	24	SUBJ	_	_
+24	var	være	verb	verb	pret|<aux1/perf_part>	14	KOORD	_	_
+25	mål	mål	subst	subst	appell|nøyt|ub|ent	24	SPRED	_	_
+26	for	for	prep	prep	_	25	ATR	_	_
+27	mobbing	mobbing	subst	subst	appell|fem|ub|ent	26	PUTFYLL	_	_
+28	fra	fra	prep	prep	_	27	ATR	_	_
+29	tribunene	tribun	subst	subst	appell|mask|be|fl	28	PUTFYLL	_	_
+30	.	$.	clb	clb	<punkt>	14	IP	_	_
+
+# 11 15 norwegian
+1	Men	men	konj	konj	clb	10	KONJ	_	_
+2	når	når	sbu	sbu	_	4	SBU	_	_
+3	du	du	pron	pron	ent|pers|hum|nom|2	4	SUBJ	_	_
+4	stiller	stille	verb	verb	pres	10	ADV	_	_
+5	deg	du	pron	pron	ent|pers|hum|akk|2	4	DOBJ	_	_
+6	selv	selv	det	det	<adj>|forst	5	DET	_	_
+7	i	i	prep	prep	_	4	ADV	_	_
+8	skuddlinja	skuddlinje	subst	subst	appell|fem|be|ent	7	PUTFYLL	_	_
+9	,	$,	<komma>	<komma>	<ikke-clb>	4	IK	_	_
+10	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+11	du	du	pron	pron	ent|pers|hum|nom|2	10	SUBJ	_	_
+12	åpen	åpen	adj	adj	ub|m/f|ent|pos	10	SPRED	_	_
+13	for	for	prep	prep	_	12	ADV	_	_
+14	angrep	angrep	subst	subst	appell|nøyt|ub|fl	13	PUTFYLL	_	_
+15	.	$.	clb	clb	<punkt>	10	IP	_	_
+
+# 51 14 norwegian
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	_
+2	vet	vite	verb	verb	pres	0	FINV	_	_
+3	jeg	jeg	pron	pron	ent|pers|hum|nom|1	4	SUBJ	_	_
+4	er	være	verb	verb	pres|<aux1/perf_part>	2	DOBJ	_	_
+5	der	der	prep	prep	_	4	SPRED	_	_
+6	for	for	prep	prep	_	4	ADV	_	_
+7	å	å	inf-merke	inf-merke	_	6	PUTFYLL	_	_
+8	bli	bli	verb	verb	inf|<aux1/perf_part>	7	INFV	_	_
+9	skutt	skyte	verb	verb	perf-part	8	INFV	_	_
+10	ned	ned	prep	prep	_	9	ADV	_	_
+11	i	i	prep	prep	_	9	ADV	_	_
+12	flammer	flamme	subst	subst	appell|mask|ub|fl	11	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+14	»	$"	clb	clb	<anf>	2	IK	_	_
+
+# 32 32 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	kom	komme	verb	verb	pret	0	FINV	_	_
+3	til	til	prep	prep	_	2	ADV	_	_
+4	Newcastle	Newcastle	subst	subst	prop	3	PUTFYLL	_	_
+5	i	i	prep	prep	_	2	ADV	_	_
+6	1991	1991	det	det	fl|kvant	5	PUTFYLL	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+8	men	men	konj	konj	clb	9	KONJ	_	_
+9	fikk	få	verb	verb	pret|<aux1/perf_part>|pa6|<aux1/inf>	2	KOORD	_	_
+10	aldri	aldri	adv	adv	_	9	ADV	_	_
+11	plass	plass	subst	subst	appell|mask|ub|ent	9	DOBJ	_	_
+12	på	på	prep	prep	_	9	ADV	_	_
+13	laget	lag	subst	subst	appell|nøyt|be|ent	12	PUTFYLL	_	_
+14	,	$,	<komma>	<komma>	<ikke-clb>	9	IK	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	til	til	prep	prep	_	2	KOORD-ELL	_	_
+17	Torquay	Torquay	subst	subst	prop	16	PUTFYLL	_	_
+18	,	$,	<komma>	<komma>	<ikke-clb>	17	IK	_	_
+19	en	en	det	det	mask|ent|kvant	17	APP	_	_
+20	av	av	prep	prep	_	19	ATR	_	_
+21	få	få	adj	adj	fl|pos	22	ATR	_	_
+22	klubber	klubb	subst	subst	appell|mask|ub|fl	20	PUTFYLL	_	_
+23	som	som	sbu	sbu	_	24	SBUREL	_	_
+24	var	være	verb	verb	pret|<aux1/perf_part>	22	ATR	_	_
+25	villig	villig	adj	adj	nøyt|ub|ent|pos	24	SPRED	_	_
+26	til	til	prep	prep	_	25	ADV	_	_
+27	å	å	inf-merke	inf-merke	_	26	PUTFYLL	_	_
+28	gi	gi	verb	verb	inf	27	INFV	_	_
+29	ham	han	pron	pron	mask|ent|pers|hum|3|akk	28	IOBJ	_	_
+30	en	en	det	det	mask|ent|kvant	31	DET	_	_
+31	sjanse	sjanse	subst	subst	appell|mask|ub|ent	28	DOBJ	_	_
+32	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 10 17 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	scoret	score	verb	verb	pret	0	FINV	_	_
+3	ti	ti	det	det	fl|kvant	4	DET	_	_
+4	mål	mål	subst	subst	appell|nøyt|ub|fl	2	DOBJ	_	_
+5	på	på	prep	prep	_	2	ADV	_	_
+6	21	21	det	det	fl|kvant	7	DET	_	_
+7	kamper	kamp	subst	subst	appell|mask|ub|fl	5	PUTFYLL	_	_
+8	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+9	og	og	konj	konj	clb	10	KONJ	_	_
+10	kom	komme	verb	verb	pret	2	KOORD	_	_
+11	til	til	prep	prep	_	10	ADV	_	_
+12	Hearts	Hearts	subst	subst	prop	11	PUTFYLL	_	_
+13	i	i	prep	prep	_	12	ATR	_	_
+14	Skottland	Skottland	subst	subst	prop	13	PUTFYLL	_	_
+15	i	i	prep	prep	_	10	ADV	_	_
+16	1993	1993	det	det	fl|kvant	15	PUTFYLL	_	_
+17	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 36 20 norwegian
+1	Der	der	prep	prep	_	4	ADV	_	_
+2	ble	bli	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+4	sparket	sparke	verb	verb	perf-part	2	INFV	_	_
+5	etter	etter	prep	prep	_	4	ADV	_	_
+6	å	å	inf-merke	inf-merke	_	5	PUTFYLL	_	_
+7	ha	ha	verb	verb	inf|<aux1/perf_part>	6	INFV	_	_
+8	prøvd	prøve	verb	verb	perf-part	7	INFV	_	_
+9	å	å	inf-merke	inf-merke	_	8	DOBJ	_	_
+10	selge	selge	verb	verb	inf	9	INFV	_	_
+11	en	en	det	det	mask|ent|kvant	13	DET	_	_
+12	falsk	falsk	adj	adj	ub|m/f|ent|pos	13	ATR	_	_
+13	historie	historie	subst	subst	appell|mask|ub|ent	10	DOBJ	_	_
+14	om	om	prep	prep	_	13	ATR	_	_
+15	et	en	det	det	nøyt|ent|kvant	16	DET	_	_
+16	forhold	forhold	subst	subst	appell|nøyt|ub|ent	14	PUTFYLL	_	_
+17	til	til	prep	prep	_	16	ATR	_	_
+18	en	en	det	det	mask|ent|kvant	19	DET	_	_
+19	minister	minister	subst	subst	appell|mask|ub|ent	17	PUTFYLL	_	_
+20	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 59 22 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	søkte	søke	verb	verb	pret	0	FINV	_	_
+3	etter	etter	prep	prep	_	2	ADV	_	_
+4	lykken	lykke	subst	subst	appell|mask|be|ent	3	PUTFYLL	_	_
+5	i	i	prep	prep	_	2	ADV	_	_
+6	USA	USA	subst	subst	prop|fork	5	PUTFYLL	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	6	IK	_	_
+8	New	New	subst	subst	prop	6	KOORD	_	_
+9	Zealand	Zealand	subst	subst	prop	8	FLAT	_	_
+10	og	og	konj	konj	<ikke-clb>	12	KONJ	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	i	i	prep	prep	_	5	KOORD	_	_
+13	Canada	Canada	subst	subst	prop	12	PUTFYLL	_	_
+14	,	$,	<komma>	<komma>	<ikke-clb>	13	IK	_	_
+15	hvor	hvor	adv	adv	_	17	ADV	_	_
+16	han	han	pron	pron	mask|ent|pers|hum|3|nom	17	SUBJ	_	_
+17	spilte	spille	verb	verb	pret	13	ATR	_	_
+18	fotball	fotball	subst	subst	appell|mask|ub|ent	17	DOBJ	_	_
+19	og	og	konj	konj	clb	20	KONJ	_	_
+20	drev	drive	verb	verb	pret	17	KOORD	_	_
+21	homsebar	homsebar	subst	subst	appell|mask|ub|ent|samset	20	DOBJ	_	_
+22	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 11 4 norwegian
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	FSUBJ	_	_
+2	gikk	gå	verb	verb	pret	0	FINV	_	_
+3	nedover	nedover	prep	prep	_	2	ADV	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 73 23 norwegian
+1	I	i	prep	prep	_	3	ADV	_	_
+2	1998	1998	det	det	fl|kvant	1	PUTFYLL	_	_
+3	reiste	reise	verb	verb	pret	0	FINV	_	_
+4	han	han	pron	pron	mask|ent|pers|hum|3|nom	3	SUBJ	_	_
+5	til	til	prep	prep	_	3	ADV	_	_
+6	USA	USA	subst	subst	prop|fork	5	PUTFYLL	_	_
+7	for	for	prep	prep	_	3	ADV	_	_
+8	å	å	inf-merke	inf-merke	_	7	PUTFYLL	_	_
+9	bli	bli	verb	verb	inf|<aux1/perf_part>	8	INFV	_	_
+10	trener	trener	subst	subst	appell|mask|ub|ent	9	SPRED	_	_
+11	i	i	prep	prep	_	9	ADV	_	_
+12	Maryland	Maryland	subst	subst	prop	11	PUTFYLL	_	_
+13	for	for	prep	prep	_	9	ADV	_	_
+14	et	en	det	det	nøyt|ent|kvant	15	DET	_	_
+15	lag	lag	subst	subst	appell|nøyt|ub|ent	13	PUTFYLL	_	_
+16	med	med	prep	prep	_	15	ATR	_	_
+17	16	16	det	det	fl|kvant	20	DET	_	_
+18	til	til	prep	prep	_	17	ADV	_	_
+19	18	18	det	det	fl|kvant	18	PUTFYLL	_	_
+20	år	år	subst	subst	appell|nøyt|ub|fl	21	ADV	_	_
+21	gamle	gammel	adj	adj	fl|pos	22	ATR	_	_
+22	gutter	gutt	subst	subst	appell|mask|ub|fl	16	PUTFYLL	_	_
+23	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 5 5 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	trengte	trenge	verb	verb	pret	0	FINV	_	_
+3	et	en	det	det	nøyt|ent|kvant	4	DET	_	_
+4	løft	løft	subst	subst	appell|nøyt|ub|ent	2	DOBJ	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 14 7 norwegian
+1	Tenåringene	tenåring	subst	subst	appell|mask|be|fl	2	SUBJ	_	_
+2	visste	vite	verb	verb	pret	0	FINV	_	_
+3	ingenting	ingenting	pron	pron	ent	2	DOBJ	_	_
+4	om	om	prep	prep	_	3	ATR	_	_
+5	hans	hans	det	det	nøyt|ent|poss	6	DET	_	_
+6	fall	fall	subst	subst	appell|nøyt|ub|ent	4	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 20 16 norwegian
+1	Gutten	gutt	subst	subst	appell|mask|be|ent	2	SUBJ	_	_
+2	har	ha	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	sovet	sove	verb	verb	perf-part	2	INFV	_	_
+4	her	her	prep	prep	_	3	ADV	_	_
+5	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+6	men	men	konj	konj	clb	8	KONJ	_	_
+7	det	det	pron	pron	nøyt|ent|pers|3	8	FSUBJ	_	_
+8	har	ha	verb	verb	pres|<aux1/perf_part>	2	KOORD	_	_
+9	ikke	ikke	adv	adv	_	10	ADV	_	_
+10	skjedd	skje	verb	verb	perf-part	8	INFV	_	_
+11	noe	noen	det	det	nøyt|ent|kvant	12	DET	_	_
+12	upassende	upassende	adj	adj	nøyt|ub|ent|pos	10	PSUBJ	_	_
+13	,	$,	<komma>	<komma>	<ikke-clb>	8	IK	_	_
+14	insisterer	insistere	verb	verb	pres	2	PAR	_	_
+15	Fashanu	Fashanu	subst	subst	prop	14	SUBJ	_	_
+16	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 26 23 norwegian
+1	2.	2.	adj	adj	fl|<ordenstall>	2	ATR	_	_
+2	april	april	subst	subst	appell|mask|ubøy	8	ADV	_	_
+3	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+4	åtte	åtte	det	det	fl|kvant	5	DET	_	_
+5	dager	dag	subst	subst	appell|mask|ub|fl	2	APP	_	_
+6	seinere	sein	adj	adj	komp	5	ATR	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	5	IK	_	_
+8	går	gå	verb	verb	pres	0	FINV	_	_
+9	politiet	politi	subst	subst	appell|nøyt|be|ent	8	SUBJ	_	_
+10	inn	inn	prep	prep	_	8	ADV	_	_
+11	i	i	prep	prep	_	10	PUTFYLL	_	_
+12	Fashanus	Fashanu	subst	subst	prop|gen	13	DET	_	_
+13	leilighet	leilighet	subst	subst	appell|fem|ub|ent	11	PUTFYLL	_	_
+14	for	for	prep	prep	_	8	ADV	_	_
+15	å	å	inf-merke	inf-merke	_	14	PUTFYLL	_	_
+16	ta	ta	verb	verb	inf	15	INFV	_	_
+17	beslag	beslag	subst	subst	appell|nøyt|ub|ent	16	DOBJ	_	_
+18	i	i	prep	prep	_	16	ADV	_	_
+19	klærne	klær	subst	subst	appell|nøyt|be|fl	18	PUTFYLL	_	_
+20	og	og	konj	konj	<ikke-clb>	21	KONJ	_	_
+21	eiendelene	eiendel	subst	subst	appell|mask|be|fl	19	KOORD	_	_
+22	hans	hans	det	det	fl|poss	21	DET	_	_
+23	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# 17 11 norwegian
+1	Justin	Justin	subst	subst	prop	2	SUBJ	_	_
+2	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	borte	borte	prep	prep	_	2	SPRED	_	_
+4	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+5	for	for	prep	prep	<contok>	7	ADV	_	_
+6	lengst	lenge	adj	adj	sup	5	PUTFYLL	_	_
+7	fløyet	fly	verb	verb	perf-part	3	KOORD	_	_
+8	tilbake	tilbake	prep	prep	_	7	ADV	_	_
+9	til	til	prep	prep	_	8	PUTFYLL	_	_
+10	England	England	subst	subst	prop	9	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 47 11 norwegian
+1	Saken	sak	subst	subst	appell|mask|be|ent	2	SUBJ	_	_
+2	blir	bli	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	oppgradert	oppgradere	verb	verb	perf-part	2	INFV	_	_
+4	til	til	prep	prep	_	3	ADV	_	_
+5	«	$"	<anf>	<anf>	_	9	IK	_	_
+6	andre	andre	adj	adj	be|ent|pos|<ordenstall>	7	ATR	_	_
+7	grads	grad	subst	subst	appell|mask|ub|ent|gen	9	DET	_	_
+8	seksuelt	seksuell	adj	adj	nøyt|ub|ent|pos	9	ATR	_	_
+9	overgrep	overgrep	subst	subst	appell|nøyt|ub|ent	4	PUTFYLL	_	_
+10	»	$"	<anf>	<anf>	_	9	IK	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 29 11 norwegian
+1	Siden	siden	adv	adv	_	5	ADV	_	_
+2	skal	skulle	verb	verb	pres|<aux1/perf_part>|<aux1/infinitiv>	0	FINV	_	_
+3	amerikansk	amerikansk	adj	adj	ub|m/f|ent|pos	4	ATR	_	_
+4	politi	politi	subst	subst	appell|nøyt|ub|ent	2	SUBJ	_	_
+5	droppe	droppe	verb	verb	inf	2	INFV	_	_
+6	etterforskningen	etterforskning	subst	subst	appell|mask|be|ent	5	DOBJ	_	_
+7	av	av	prep	prep	_	5	ADV	_	_
+8	mangel	mangel	subst	subst	appell|mask|ub|ent	7	PUTFYLL	_	_
+9	på	på	prep	prep	_	8	ATR	_	_
+10	beviser	bevis	subst	subst	appell|nøyt|ub|fl	9	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 15 21 norwegian
+1	Engelske	engelsk	adj	adj	fl|pos	2	ATR	_	_
+2	tabloider	tabloid	subst	subst	appell|mask|ub|fl	3	SUBJ	_	_
+3	skriver	skrive	verb	verb	pres	0	FINV	_	_
+4	likevel	likevel	adv	adv	_	3	ADV	_	_
+5	at	at	sbu	sbu	_	7	SBU	_	_
+6	han	han	pron	pron	mask|ent|pers|hum|3|nom	7	SUBJ	_	_
+7	kan	kunne	verb	verb	pres|<aux1/infinitiv>	3	DOBJ	_	_
+8	få	få	verb	verb	inf|<aux1/perf_part>|pa6|<aux1/inf>	7	INFV	_	_
+9	20	20	det	det	fl|kvant	10	DET	_	_
+10	år	år	subst	subst	appell|nøyt|ub|fl	8	DOBJ	_	_
+11	i	i	prep	prep	_	10	ATR	_	_
+12	fengsel	fengsel	subst	subst	appell|nøyt|ub|ent	11	PUTFYLL	_	_
+13	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+14	og	og	konj	konj	clb	15	KONJ	_	_
+15	omtaler	omtale	verb	verb	pres	3	KOORD	_	_
+16	en	en	det	det	mask|ent|kvant	17	DET	_	_
+17	arrestordre	arrestordre	subst	subst	appell|mask|ub|ent	15	DOBJ	_	_
+18	som	som	sbu	sbu	_	20	SBUREL	_	_
+19	aldri	aldri	adv	adv	_	20	ADV	_	_
+20	eksisterer	eksistere	verb	verb	pres	17	ATR	_	_
+21	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 8 16 norwegian
+1	Etter	etter	prep	prep	_	8	ADV	_	_
+2	å	å	inf-merke	inf-merke	_	1	PUTFYLL	_	_
+3	ha	ha	verb	verb	inf|<aux1/perf_part>	2	INFV	_	_
+4	returnert	returnere	verb	verb	perf-part	3	INFV	_	_
+5	fra	fra	prep	prep	_	4	ADV	_	_
+6	USA	USA	subst	subst	prop|fork	5	PUTFYLL	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+8	reiser	reise	verb	verb	pres	0	FINV	_	_
+9	Fashanu	Fashanu	subst	subst	prop	8	SUBJ	_	_
+10	til	til	prep	prep	_	8	ADV	_	_
+11	et	en	det	det	nøyt|ent|kvant	13	DET	_	_
+12	religiøst	religiøs	adj	adj	nøyt|ub|ent|pos	13	ATR	_	_
+13	tilfluktssted	tilfluktssted	subst	subst	appell|nøyt|ub|ent	10	PUTFYLL	_	_
+14	i	i	prep	prep	_	13	ATR	_	_
+15	Leicestershire	Leicestershire	subst	subst	prop	14	PUTFYLL	_	_
+16	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# 35 12 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	bruker	bruke	verb	verb	pres	0	FINV	_	_
+3	sin	sin	det	det	mask|ent|poss	4	DET	_	_
+4	mors	mor	subst	subst	appell|mask|ub|ent|gen	5	DET	_	_
+5	jentenavn	jentenavn	subst	subst	appell|nøyt|ub|ent	6	APP	_	_
+6	Lawrence	Lawrence	subst	subst	prop	2	DOBJ	_	_
+7	for	for	prep	prep	_	2	ADV	_	_
+8	å	å	inf-merke	inf-merke	_	7	PUTFYLL	_	_
+9	holde	holde	verb	verb	inf	8	INFV	_	_
+10	seg	seg	pron	pron	akk|refl	9	DOBJ	_	_
+11	skjult	skjule	adj	adj	ub|m/f|ent|<perf-part>	9	OPRED	_	_
+12	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 57 23 norwegian
+1	Før	før	sbu	sbu	_	3	SBU	_	_
+2	han	han	pron	pron	mask|ent|pers|hum|3|nom	3	SUBJ	_	_
+3	drar	dra	verb	verb	pres	0	FINV	_	_
+4	til	til	prep	prep	_	3	ADV	_	_
+5	London	London	subst	subst	prop	4	PUTFYLL	_	_
+6	for	for	prep	prep	_	3	ADV	_	_
+7	å	å	inf-merke	inf-merke	_	6	PUTFYLL	_	_
+8	prøve	prøve	verb	verb	inf	7	INFV	_	_
+9	å	å	inf-merke	inf-merke	_	8	DOBJ	_	_
+10	selge	selge	verb	verb	inf	9	INFV	_	_
+11	sin	sin	det	det	mask|ent|poss	12	DET	_	_
+12	historie	historie	subst	subst	appell|mask|ub|ent	10	DOBJ	_	_
+13	til	til	prep	prep	_	10	ADV	_	_
+14	pressen	presse	subst	subst	appell|mask|be|ent	13	PUTFYLL	_	_
+15	om	om	prep	prep	_	12	ATR	_	_
+16	at	at	sbu	sbu	_	18	SBU	_	_
+17	han	han	pron	pron	mask|ent|pers|hum|3|nom	18	SUBJ	_	_
+18	er	være	verb	verb	pres|<aux1/perf_part>	15	PUTFYLL	_	_
+19	offer	offer	subst	subst	appell|nøyt|ub|ent	18	SPRED	_	_
+20	for	for	prep	prep	_	19	ATR	_	_
+21	en	en	det	det	mask|ent|kvant	22	DET	_	_
+22	utpresser	utpresser	subst	subst	appell|mask|ub|ent	20	PUTFYLL	_	_
+23	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 6 11 norwegian
+1	Men	men	konj	konj	clb	4	KONJ	_	_
+2	hans	hans	det	det	mask|ent|poss	3	DET	_	_
+3	agent	agent	subst	subst	appell|mask|ub|ent	4	SUBJ	_	_
+4	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+5	syk	syk	adj	adj	ub|m/f|ent|pos	4	SPRED	_	_
+6	,	$,	<komma>	<komma>	<ikke-clb>	4	IK	_	_
+7	og	og	konj	konj	clb	8	KONJ	_	_
+8	ringer	ringe	verb	verb	pres	4	KOORD	_	_
+9	aldri	aldri	adv	adv	_	8	ADV	_	_
+10	tilbake	tilbake	prep	prep	_	8	ADV	_	_
+11	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# 51 19 norwegian
+1	Samme	samme	det	det	dem|be|<adj>	2	DET	_	_
+2	morgen	morgen	subst	subst	appell|mask|ub|ent	8	ADV	_	_
+3	som	som	sbu	sbu	_	5	SBU	_	_
+4	Justin	Justin	subst	subst	prop	5	SUBJ	_	_
+5	blir	bli	verb	verb	pres|<aux1/perf_part>	1	ATR	_	_
+6	funnet	finne	verb	verb	perf-part	5	INFV	_	_
+7	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+8	står	stå	verb	verb	pres	0	FINV	_	_
+9	et	en	det	det	nøyt|ent|kvant	10	DET	_	_
+10	intervju	intervju	subst	subst	appell|nøyt|ub|ent	8	SUBJ	_	_
+11	med	med	prep	prep	_	10	ATR	_	_
+12	boren	bor	subst	subst	appell|mask|be|ent	13	APP	_	_
+13	John	John	subst	subst	prop|mask	11	PUTFYLL	_	_
+14	på	på	prep	prep	_	8	ADV	_	_
+15	trykk	trykk	subst	subst	appell|nøyt|ub|ent	14	PUTFYLL	_	_
+16	i	i	prep	prep	_	8	ADV	_	_
+17	New	New	subst	subst	prop	16	PUTFYLL	_	_
+18	Nation	Nation	subst	subst	prop	17	FLAT	_	_
+19	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# 68 15 norwegian
+1	Uvitende	uvitende	adj	adj	ub|m/f|ent|pos	13	FSPRED	_	_
+2	om	om	prep	prep	_	1	ATR	_	_
+3	hvor	hvor	adv	adv	_	4	ADV	_	_
+4	langt	lang	adj	adj	nøyt|ub|ent|pos	5	ADV	_	_
+5	ute	ute	prep	prep	_	10	ADV	_	_
+6	på	på	prep	prep	_	5	PUTFYLL	_	_
+7	livets	liv	subst	subst	appell|nøyt|be|ent|gen	8	DET	_	_
+8	vei	vei	subst	subst	appell|mask|ub|ent	6	PUTFYLL	_	_
+9	broren	bror	subst	subst	appell|mask|be|ent	10	SUBJ	_	_
+10	befinner	befinne	verb	verb	pres	2	PUTFYLL	_	_
+11	seg	seg	pron	pron	akk|refl	10	DOBJ	_	_
+12	,	$,	<komma>	<komma>	<ikke-clb>	1	IK	_	_
+13	sier	si	verb	verb	pres	0	FINV	_	_
+14	han	han	pron	pron	mask|ent|pers|hum|3|nom	13	SUBJ	_	_
+15	:	$:	clb	clb	<kolon>	13	IP	_	_
+
+# 7 11 norwegian
+1	«	$"	<anf>	<anf>	_	3	IK	_	_
+2	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	_
+3	ber	be	verb	verb	pres	0	FINV	_	_
+4	bare	bare	adv	adv	_	3	ADV	_	_
+5	om	om	prep	prep	_	3	ADV	_	_
+6	at	at	sbu	sbu	_	9	SBU	_	_
+7	anklagene	anklage	subst	subst	appell|mask|be|fl	9	SUBJ	_	_
+8	ikke	ikke	adv	adv	_	9	ADV	_	_
+9	er	være	verb	verb	pres|<aux1/perf_part>	5	PUTFYLL	_	_
+10	sanne	sann	adj	adj	fl|pos	9	SPRED	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 29 17 norwegian
+1	Vi	vi	pron	pron	fl|pers|hum|nom|1	2	SUBJ	_	_
+2	mistet	miste	verb	verb	pret	0	FINV	_	_
+3	kontakt	kontakt	subst	subst	appell|mask|ub|ent	2	DOBJ	_	_
+4	for	for	prep	prep	_	2	ADV	_	_
+5	flere	mange	adj	adj	komp	6	ATR	_	_
+6	år	år	subst	subst	appell|nøyt|ub|fl	4	PUTFYLL	_	_
+7	siden	siden	adv	adv	_	6	ATR	_	_
+8	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+9	og	og	konj	konj	<ikke-clb>	13	KONJ	_	_
+10	uansett	uansett	prep	prep	_	13	ADV	_	_
+11	,	$,	<komma>	<komma>	<ikke-clb>	10	IK	_	_
+12	jeg	jeg	pron	pron	ent|pers|hum|nom|1	13	SUBJ	_	_
+13	bryr	bry	verb	verb	pres	2	KOORD	_	_
+14	meg	jeg	pron	pron	ent|pers|hum|akk|1	13	DOBJ	_	_
+15	ikke	ikke	adv	adv	_	16	ADV	_	_
+16	lenger	lenge	adj	adj	komp|<adv>	13	ADV	_	_
+17	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 30 9 norwegian
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	_
+2	vil	ville	verb	verb	pres|<aux1/infinitiv>	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	4	ADV	_	_
+4	ha	ha	verb	verb	inf|<aux1/perf_part>	2	INFV	_	_
+5	noe	noe	pron	pron	nøyt|ent|pers|3	4	DOBJ	_	_
+6	med	med	prep	prep	_	8	ADV	_	_
+7	ham	han	pron	pron	mask|ent|pers|hum|3|akk	6	PUTFYLL	_	_
+8	gjøre	gjøre	verb	verb	inf	5	ATR	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 33 15 norwegian
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	_
+2	har	ha	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	hjulpet	hjelpe	verb	verb	perf-part	2	INFV	_	_
+4	ham	han	pron	pron	mask|ent|pers|hum|3|akk	3	DOBJ	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	mye	mye	adj	adj	nøyt|ub|ent|pos	3	ADV	_	_
+7	opp	opp	prep	prep	_	3	ADV	_	_
+8	gjennom	gjennom	prep	prep	_	7	PUTFYLL	_	_
+9	,	$,	<komma>	<komma>	<ikke-clb>	3	IK	_	_
+10	både	både	konj	konj	<ikke-clb>|<adv>	11	KONJ	_	_
+11	emosjonelt	emosjonell	adj	adj	nøyt|ub|ent|pos	3	ADV	_	_
+12	og	og	konj	konj	<ikke-clb>	13	KONJ	_	_
+13	med	med	prep	prep	_	11	KOORD	_	_
+14	penger	penge	subst	subst	appell|mask|ub|fl	13	PUTFYLL	_	_
+15	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 15 13 norwegian
+1	Justin	Justin	subst	subst	prop	2	SUBJ	_	_
+2	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	gammel	gammel	adj	adj	ub|m/f|ent|pos	2	SPRED	_	_
+4	nok	nok	adv	adv	_	3	ADV	_	_
+5	til	til	prep	prep	_	4	ADV	_	_
+6	å	å	inf-merke	inf-merke	_	5	PUTFYLL	_	_
+7	stå	stå	verb	verb	inf	6	INFV	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	sine	sin	det	det	fl|poss	12	DET	_	_
+10	to	to	det	det	fl|kvant	12	DET	_	_
+11	egne	egen	det	det	fl|<adj>|forst	12	DET	_	_
+12	bein	bein	subst	subst	appell|nøyt|ub|fl	8	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 3 8 norwegian
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	er	være	verb	verb	pres|<aux1/perf_part>	0	FINV	_	_
+3	en	en	det	det	mask|ent|kvant	5	DET	_	_
+4	stor	stor	adj	adj	ub|m/f|ent|pos	5	ATR	_	_
+5	gutt	gutt	subst	subst	appell|mask|ub|ent	2	SPRED	_	_
+6	nå	nå	adv	adv	_	2	ADV	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+8	»	$"	clb	clb	<anf>	2	IK	_	_
+
+# 9 6 norwegian
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	FSUBJ	_	_
+2	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	en	en	det	det	mask|ent|kvant	5	DET	_	_
+4	makaber	makaber	adj	adj	ub|m/f|ent|pos	5	ATR	_	_
+5	timing	timing	subst	subst	appell|mask|ub|ent	2	SPRED	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 92 10 norwegian
+1	Den	den	det	det	dem|mask|ent	2	DET	_	_
+2	morgenen	morgen	subst	subst	appell|mask|be|ent	3	ADV	_	_
+3	hang	henge	verb	verb	pret	0	FINV	_	_
+4	Justin	Justin	subst	subst	prop	3	SUBJ	_	_
+5	Fashanu	Fashanu	subst	subst	prop	4	FLAT	_	_
+6	livløs	livløs	adj	adj	ub|m/f|ent|pos	3	FSPRED	_	_
+7	i	i	prep	prep	_	3	ADV	_	_
+8	en	en	det	det	mask|ent|kvant	9	DET	_	_
+9	garasje	garasje	subst	subst	appell|mask|ub|ent	7	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	3	IP	_	_
+

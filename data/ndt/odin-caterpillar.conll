@@ -1,0 +1,135 @@
+# 134 4 caterpillar
+1	I	i	prep	prep	_	0	FRAG	_	_
+2	Low	Low	subst	subst	prop	1	PUTFYLL	_	_
+3	Road	Road	subst	subst	prop	2	FLAT	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# 22 3 caterpillar
+1	Vi	vi	pron	pron	fl|pers|hum|nom|1	2	SUBJ	_	_
+2	stopper	stoppe	verb	verb	pres	0	FINV	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 64 9 caterpillar
+1	Skimter	skimte	verb	verb	pres	0	FINV	_	_
+2	Justin	Justin	subst	subst	prop|gen|unorm	3	DET	_	_
+3	barndomshjem	barndomshjem	subst	subst	appell|nøyt|ub|ent	1	DOBJ	_	_
+4	gjennom	gjennom	prep	prep	_	1	ADV	_	_
+5	en	en	det	det	mask|ent|kvant	6	DET	_	_
+6	glipe	glipe	subst	subst	appell|mask|ub|ent	4	PUTFYLL	_	_
+7	i	i	prep	prep	_	6	ATR	_	_
+8	hekken	hekk	subst	subst	appell|mask|be|ent	7	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# 61 9 caterpillar
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	FSUBJ	_	_
+2	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+3	hit	hit	prep	prep	_	2	SPRED	_	_
+4	asken	aske	subst	subst	appell|mask|be|ent	7	SUBJ	_	_
+5	etter	etter	prep	prep	_	4	ATR	_	_
+6	kremasjonen	kremasjon	subst	subst	appell|mask|be|ent	5	PUTFYLL	_	_
+7	ble	bli	verb	verb	pret|<aux1/perf_part>	3	ADV	_	_
+8	fraktet	frakte	verb	verb	perf-part	7	INFV	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 141 19 caterpillar
+1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	_
+2	levde	leve	verb	verb	pret	0	FINV	_	_
+3	et	en	det	det	nøyt|ent|kvant	6	DET	_	_
+4	nokså	nokså	adv	adv	_	5	ADV	_	_
+5	bortskjemt	bortskjemt	adj	adj	nøyt|ub|ent|pos	6	ATR	_	_
+6	liv	liv	subst	subst	appell|nøyt|ub|ent	2	DOBJ	_	_
+7	her	her	prep	prep	_	2	ADV	_	_
+8	,	$,	<komma>	<komma>	<ikke-clb>	2	IK	_	_
+9	i	i	prep	prep	_	2	ADV	_	_
+10	en	en	det	det	mask|ent|kvant	13	DET	_	_
+11	to	to	det	det	fl|kvant	12	DET	_	_
+12	etasjers	etasje	subst	subst	appell|mask|ub|fl|gen	13	DET	_	_
+13	villa	villa	subst	subst	appell|mask|ub|ent	9	PUTFYLL	_	_
+14	bak	bak	prep	prep	_	13	ATR	_	_
+15	kristtorn	kristtorn	subst	subst	appell|mask|ub|ent	14	PUTFYLL	_	_
+16	og	og	konj	konj	<ikke-clb>	18	KONJ	_	_
+17	massive	massiv	adj	adj	fl|pos	18	ATR	_	_
+18	hekker	hekk	subst	subst	appell|mask|ub|fl	15	KOORD	_	_
+19	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 41 7 caterpillar
+1	Fosterforeldrene	fosterforelder	subst	subst	appell|mask|be|fl	2	SUBJ	_	_
+2	øste	øse	verb	verb	pret	0	FINV	_	_
+3	luksus	luksus	subst	subst	appell|mask|ub|ent	2	DOBJ	_	_
+4	på	på	prep	prep	_	2	ADV	_	_
+5	guttene	gutt	subst	subst	appell|mask|be|fl	4	PUTFYLL	_	_
+6	sine	sin	det	det	fl|poss	5	DET	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 147 18 caterpillar
+1	Mora	mor	subst	subst	appell|fem|be|ent	2	APP	_	_
+2	Betty	Betty	subst	subst	prop	3	SUBJ	_	_
+3	spilte	spille	verb	verb	pret	0	FINV	_	_
+4	kirkeorgel	kirkeorgel	subst	subst	appell|nøyt|ub|ent|samset	3	DOBJ	_	_
+5	i	i	prep	prep	_	3	ADV	_	_
+6	den	den	det	det	dem|fem|ent	8	DET	_	_
+7	lokale	lokal	adj	adj	be|ent|pos	8	ATR	_	_
+8	kirka	kirke	subst	subst	appell|fem|be|ent	5	PUTFYLL	_	_
+9	,	$,	<komma>	<komma>	<ikke-clb>	8	IK	_	_
+10	hvor	hvor	adv	adv	_	12	ADV	_	_
+11	Justin	Justin	subst	subst	prop	12	SUBJ	_	_
+12	var	være	verb	verb	pret|<aux1/perf_part>	8	ATR	_	_
+13	det	det	det	det	dem|nøyt|ent	15	DET	_	_
+14	svarte	svart	adj	adj	be|ent|pos	15	ATR	_	_
+15	fjeset	fjes	subst	subst	appell|nøyt|be|ent	12	SPRED	_	_
+16	i	i	prep	prep	_	15	ATR	_	_
+17	koret	kor	subst	subst	appell|nøyt|be|ent	16	PUTFYLL	_	_
+18	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# 269 23 caterpillar
+1	Selv	selv	adv	adv	_	2	ADV	_	_
+2	om	om	sbu	sbu	_	5	SBU	_	_
+3	moren	mor	subst	subst	appell|mask|be|ent	4	APP	_	_
+4	Pearl	Pearl	subst	subst	prop	5	SUBJ	_	_
+5	kom	komme	verb	verb	pret	12	ADV	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	besøk	besøk	subst	subst	appell|nøyt|ub|ent	6	PUTFYLL	_	_
+8	nå	nå	adv	adv	_	5	ADV	_	_
+9	og	og	konj	konj	<ikke-clb>	10	KONJ	_	_
+10	da	da	adv	adv	_	8	KOORD	_	_
+11	,	$,	<komma>	<komma>	<ikke-clb>	5	IK	_	_
+12	var	være	verb	verb	pret|<aux1/perf_part>	0	FINV	_	_
+13	der	der	prep	prep	_	12	FSUBJ	_	_
+14	ingen	ingen	det	det	fl|kvant	17	DET	_	_
+15	andre	annen	de	det	dem|fl|<adj>	17	DET	_	_
+16	svarte	svart	adj	adj	fl|pos	17	ATR	_	_
+17	mennesker	menneske	subst	subst	appell|nøyt|ub|fl	12	PSUBJ	_	_
+18	enn	enn	prep	prep	_	15	ADV	_	_
+19	broren	bror	subst	subst	appell|mask|be|ent	18	PUTFYLL	_	_
+20	i	i	prep	prep	_	12	ADV	_	_
+21	mils	mil	subst	subst	appell|fem|ub|fl|gen	22	DET	_	_
+22	omkrets	omkrets	subst	subst	appell|mask|ub|ent	20	PUTFYLL	_	_
+23	.	$.	clb	clb	<punkt>	12	IP	_	_
+
+# 94 10 caterpillar
+1	Naboer	nabo	subst	subst	appell|mask|ub|fl	2	SUBJ	_	_
+2	sier	si	verb	verb	pres	0	FINV	_	_
+3	at	at	sbu	sbu	_	8	SBU	_	_
+4	både	både	konj	konj	<ikke-clb>|<adv>	5	KONJ	_	_
+5	Justin	Justin	subst	subst	prop	8	SUBJ	_	_
+6	og	og	konj	konj	<ikke-clb>	7	KONJ	_	_
+7	John	John	subst	subst	prop|mask	5	KOORD	_	_
+8	var	være	verb	verb	pret|<aux1/perf_part>	2	DOBJ	_	_
+9	forvirret	forvirre	adj	adj	nøyt|ub|ent|<perf-part>	8	SPRED	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# 164 13 caterpillar
+1	Justin	Justin	subst	subst	prop	2	SUBJ	_	_
+2	skal	skulle	verb	verb	pres|<aux1/perf_part>|<aux1/infinitiv>	0	FINV	_	_
+3	til	til	prep	prep	<contok>	8	ADV	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	med	med	prep	prep	_	3	KOORD	_	_
+6	åpent	åpen	adj	adj	nøyt|ub|ent|pos	8	ADV	_	_
+7	ha	ha	verb	verb	inf|<aux1/perf_part>	2	INFV	_	_
+8	tryglet	trygle	verb	verb	perf-part	7	INFV	_	_
+9	om	om	prep	prep	_	8	ADV	_	_
+10	å	å	inf-merke	inf-merke	_	9	PUTFYLL	_	_
+11	bli	bli	verb	verb	inf|<aux1/perf_part>	10	INFV	_	_
+12	hvit	hvit	adj	adj	ub|m/f|ent|pos	11	SPRED	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
