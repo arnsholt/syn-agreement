@@ -244,8 +244,13 @@ metrics = {'plain': lambda a, b: delta(a,b)**2,
            'norm':  lambda a, b: (delta(a,b)/(len(a.tokens) + len(b.tokens)))**2}
 
 # TODO: Labelled vs. unlabelled alpha
-options, args = getopt(sys.argv[1:], 'x:', ['metric=', 'acc', 'dirs', 'tree', 'conll'])
+options, args = getopt(sys.argv[1:], 'x:', ['metric=', 'acc', 'dirs', 'tree', 'conll', 'help'])
 options = {key: value for key, value in options}
+
+if '--help' in options:
+    print "Usage: %s [--tree|--conll] [--acc] [--metric=plain|diff|norm|all] fileA fileB" % sys.argv[0]
+    print "       %s [--tree|--conll] [--acc] [--metric=plain|diff|norm|all] --dirs dir..." % sys.argv[0]
+    sys.exit()
 
 if '--tree' in options and '--conll' in options:
     raise Error("--tree and --conll' are mutually exclusive")
