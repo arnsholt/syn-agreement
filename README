@@ -1,0 +1,80 @@
+This package requires one more library, in addition to the files shipped with
+the program: Tim Henderson's Zhang-Shasha library, available at
+https://github.com/timtadh/zhang-shasha (known to work with revision cb1f777).
+
+SYNOPSIS:
+    syn-agreement.py [--tree|--conll] [--acc] [--metric=plain|diff|norm|all] fileA fileB
+    syn-agreement.py [--tree|--conll] [--acc] [--metric=plain|diff|norm|all] --dirs dir...
+
+DESCRIPTION:
+    --tree
+        Read phrase structure trees instead of dependency trees. The phrase
+        structure format is slightly idiosyncratic. See the section "Phrase
+        structure format" below for details.
+
+    --conll
+        Read CoNLL formatted dependency trees. This is the default.
+
+    --acc
+        Compute uncorrected accuracies in addition to alpha score. For
+        dependency trees, UAS, LAS and label accuracy is computed, and for
+        phrase structure trees Jaccard similarity is computed.
+
+    --metric=plain|diff|norm|all
+        Select the metric to use, or compute all metrics at the same time. The
+        default metric is the plain metric.
+
+        NOTE: For any use beyond the reproduction of the results presented in
+        Skjærholt (2014) we discourage the use of any other metric that
+        α_plain.
+
+    --dirs
+        Enable multi-annotator mode. In cases where there are more than two
+        annotators, it is common that not all annotators have annotated all of
+        the texts. Therefore, we use a mode of operation where each
+        annotator's output is in a separate directory. Sentences from files
+        with matching names will be grouped together to account for missing
+        annotations.
+
+        The file and directory structure must follow the following convention:
+        We assume the basename of the directory path to be the "name" of the
+        annotator, and the files within to be named thusly:
+        $prefix-$name.conll (or $prefix-$name.tree for constituency trees),
+        where files with the same prefix in different directories are assumed
+        to contain *exactly* the same sentences.
+
+        If the --acc option is also passed, pairwise accuracies are computed.
+
+PHRASE STRUCTURE FORMAT:
+    Assume we have the following tree for the sentence "I saw the dog":
+                       S
+                       ^
+                      / \
+                     /   VP
+                    |     ^
+                    |    / \
+                    |   /   NP
+                   NP  |     ^
+                    |  |    / \
+                    P  V   D   N
+                    |  |   |   |
+                    I saw the dog
+
+    The program then expects the tree to be stored *delexicalised* as follows:
+        (S (NP P) (VP V (NP D N)))
+
+LICENCES:
+    The files syn-agreement.py and conll.py are (c) 2014 Arne Skjærholt and
+    released under the GNU GPL version 2 or later:
+    <http://gnu.org/licenses/gpl.html>
+
+    The code in alpha.py is (c) 2011-2014 Thomas Grill and released under the
+    Creative Commons Attribution-ShareAlike licence:
+    <http://creativecommons.org/licenses/by-sa/3.0/>
+
+    The data from the Norwegian Dependency Treebank in data/ndt/ is free for
+    all uses, as long as they are not published as running, human readable
+    text.
+
+    The data from the Copenhagen Dependency Treebanks in data/cdt/ is licenced
+    under the GNU GPL version 2: <http://gnu.org/licenses/gpl.html>
