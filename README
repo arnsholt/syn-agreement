@@ -78,3 +78,5 @@ LICENCES:
 
     The data from the Copenhagen Dependency Treebanks in data/cdt/ is licenced
     under the GNU GPL version 2: <http://gnu.org/licenses/gpl.html>
+
+    The SSD dataset in data/ssd/ is released under the MIT licence.

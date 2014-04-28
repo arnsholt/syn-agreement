@@ -1,0 +1,31 @@
+(sb-hd_mc_c
+ (hdn_bnp-pn_c (np-hdn_ttl-cpd_c
+                (n_sg_ilr n_-_c_le)
+                (n_sg_ilr n_-_pn-gen_le)))
+ (hd-cmp_u_c
+  (hd-cmp_u_c
+   (v_aux-advadd_dlr v_vp_has_le)
+   av_-_s-not_le)
+  (hd-cmp_u_c
+   v_prd_been_le
+   (hd-aj_int-unsl_c
+    (hd-cmp_u_c
+     (v_pas_odlr v_np_le)
+     (hd-cmp_u_c
+      p_np_ptcl_le
+      (sp-hd_n_c
+       d_-_prt_le
+       (aj-hdn_norm_c
+        aj_-_i_le
+        (n_sg_ilr n_-_c-ed_le)))))
+    (hd-cmp_u_c
+     p_np_i-ngap_le
+     (sp-hd_n_c
+      d_-_the_le
+      (hd-cmp_u_c
+       (n_sg_ilr n_pp_c-dpt-sg-of_le)
+       (hd-cmp_u_c
+        p_np_ptcl-of_le
+        (sp-hd_n_c
+         d_-_the_le
+         (hdn_optcmp_c (w_period_plr (n_ms-cnt_ilr n_pp_mc-of_le))))))))))))

@@ -1,0 +1,11 @@
+(sb-hd_mc_c
+ (hdn_bnp-qnt_c n_-_pr-i_le)
+ (hd-cmp_u_c
+  (hd_optcmp_c (v_pst_olr v_pp*-cp_fin-imp_le))
+  (hd-cmp_u_c
+   cm_np-vp_that_le
+   (sb-hd_nmc_c
+    (hdn_bnp-qnt_c n_-_pr-i_le)
+    (hd-cmp_u_c
+     (v_aux-advadd_dlr (v_aux-ell-ref_dlr v_vp_had_le))
+     (w_period_plr av_-_s-not_le))))))

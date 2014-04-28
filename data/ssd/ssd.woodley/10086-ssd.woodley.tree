@@ -1,0 +1,21 @@
+(cl-cl_runon_c
+ (sb-hd_mc_c
+  (hdn_bnp-qnt_c n_-_pr-you_le)
+  (hd-cmp_u_c
+   v_vp_do-f-n_le
+   (hd_optcmp_c (hd-pct_c
+                 (v_n3s-bse_ilr v_np*_le)
+                 pt_-_s-dash_le))))
+ (sb-hd_mc_c
+  (hdn_bnp-qnt_c n_-_pr-you_le)
+  (hd-cmp_u_c
+   v_vp_do-f-n_le
+   (hd-cmp_u_c
+    (hd_optcmp_c (v_n3s-bse_ilr v_pp*-cp_fin-imp_le))
+    (hd-cmp_u_c
+     cm_np-vp_that_le
+     (sb-hd_nmc_c
+      (hdn_bnp-qnt_c n_-_pr-i_le)
+      (hd-cmp_u_c
+       v_prd_am_le
+       (hd_optcmp_c (w_dqright_plr (w_qmark_plr (v_pas_odlr v_np*_le)))))))))))

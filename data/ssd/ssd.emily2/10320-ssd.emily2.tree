@@ -1,0 +1,21 @@
+(hd-aj_scp_c
+ (sb-hd_mc_c
+  (hdn_bnp-qnt_c n_-_pr-she_le)
+  (hd-cmp_u_c
+   (hd-cmp_u_c
+    (v_aux-advadd_dlr v_vp_mdl-p-unsp_le)
+    av_-_s-not_le)
+   (hd-cmp_u_c
+    v_vp_have-bse_le
+    (hd-cmp_u_c
+     (v_psp_olr v_np*_le)
+     (hdn_bnp-pn_c (w_sqleft_plr (w_sqright_plr (n_sg_ilr n_-_pn-gen_le))))))))
+ (hd-cmp_u_c
+  (hd-cmp_u_c
+   (v_cond-inv_dlr v_vp_had-sv_le)
+   (hdn_bnp-qnt_c n_-_pr-it_le))
+  (aj-hd_scp-xp_c
+   av_-_s-not_le
+   (hd-cmp_u_c
+    v_prd_been_le
+    (w_period_plr aj_-_i-prd-ndpt_le)))))

@@ -1,0 +1,43 @@
+(sb-hd_mc_c
+ (hdn_bnp-qnt_c n_-_pr-he_le)
+ (hd-aj_scp-pr_c
+  (vp-vp_crd-fin-t_c
+   (hd-cmp_u_c
+    (hd-cmp_u_c
+     (v_aux-advadd_dlr v_np_is_le)
+     av_-_i-vp-x_le)
+    (sp-hd_n_c
+     d_-_sg-nmd_le
+     (n_sg_ilr n_-_c_le)))
+   (mrk-nh_evnt_c
+    c_xp_or_le
+    (hd-cmp_u_c
+     v_vp_has_le
+     (hd-aj_int-unsl_c
+      (hd-aj_int-unsl_c
+       (hd_optcmp_c (v_psp_olr v_pp*_dir_le))
+       (np_adv_c (hdn_bnp-qnt_c n_-_ad-gr_le)))
+      (hd-cmp_u_c
+       p_np_i-reg_le
+       (sp-hd_n_c
+        d_-_the_le
+        (w_comma_plr (n_ms-cnt_ilr n_-_mc-unk_le))))))))
+  (hd-cmp_u_c
+   p_cp_s-post_le
+   (sb-hd_nmc_c
+    (hdn_bnp-qnt_c n_-_pr-he_le)
+    (hd-cmp_u_c
+     v_prd_is_le
+     (j-j_crd-prd-t_c
+      (j-j_crd-prd-t_c
+       aj_-_i-color-er_le
+       (mrk-nh_evnt_c
+        c_xp_and_le
+        (w_comma_plr aj_-_i-unk_le)))
+      (mrk-nh_evnt_c
+       c_xp_but_le
+       (hd-aj_int-unsl_c
+        (hd_optcmp_c aj_pp_i-er_le)
+        (sp-hd_hc_c
+         av_-_dg-cmp-so_le
+         (w_period_plr av_-_i-unk_le))))))))))

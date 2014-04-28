@@ -1,0 +1,25 @@
+(sb-hd_mc_c
+ (sp-hd_n_c
+  d_-_poss-our_le
+  (n_sg_ilr n_-_c_le))
+ (hd-cmp_u_c
+  (hd-aj_vmod_c
+   (v_pst_olr v_pp_e_le)
+   (hd-aj_int-unsl_c
+    pp_-_i_le
+    (hd-cmp_u_c
+     p_np_i_le
+     (sp-hd_n_c
+      d_-_sg-nmd_le
+      (aj-hdn_norm_c
+       aj_-_i-unk_le
+       (n_sg_ilr n_-_c-ed_le))))))
+  (hd-cmp_u_c
+   p_np_ptcl_le
+   (sp-hd_n_c
+    d_-_poss-his_le
+    (aj-hdn_adjn_c
+     aj_-_i-poss_le
+     (aj-hdn_norm_c
+      aj_-_i-unk_le
+      (hdn_optcmp_c (w_period_plr (n_ms-cnt_ilr n_pp_mc-of_le)))))))))

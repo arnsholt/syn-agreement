@@ -1,0 +1,11 @@
+(cl_cnj-frg_c (mrk-nh_cl_c
+               c_xp_but_le
+               (sb-hd_mc_c
+                (sp-hd_n_c
+                 d_-_sgm_le
+                 (hdn_optcmp_c (n_ms-cnt_ilr n_pp_mc-of-ns_le)))
+                (hd-cmp_u_c
+                 (hd-cmp_u_c
+                  (v_aux-advadd_dlr v_vp_mdl-p-unsp_le)
+                  av_-_s-not_le)
+                 (hd_optcmp_c (w_period_plr (v_n3s-bse_ilr v_np*_le)))))))

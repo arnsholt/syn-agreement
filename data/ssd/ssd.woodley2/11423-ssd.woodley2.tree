@@ -1,0 +1,19 @@
+(hd_yesno_c (hd_optcmp_c (hd-cmp_u_c
+                          (hd-cmp_u_c
+                           (v_aux-sb-inv_dlr v_np-xp_is_le)
+                           n_-_pr-there-x_le)
+                          (sp-hd_n_c
+                           d_-_prt_le
+                           (hdn-aj_rc_c
+                            (n_sg_ilr n_-_c-ed-ns_le)
+                            (flr-hd_rel-fin_c
+                             (hdn_bnp-qnt_c n_-_pr-rel-what_le)
+                             (hd_xsb-fin_c (hd-cmp_u_c
+                                            (hd-cmp_u_c
+                                             (v_aux-advadd_dlr v_prd_is_le)
+                                             av_-_s-not_le)
+                                            (hd-aj_int-unsl_c
+                                             (hd_optcmp_c aj_pp_i_le)
+                                             (hd-cmp_u_c
+                                              p_np_i-nnm_le
+                                              (hdn_bnp-qnt_c (w_dqright_plr (w_qmark_plr n_-_pr-you_le)))))))))))))

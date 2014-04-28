@@ -1,0 +1,47 @@
+(sb-hd_mc_c
+ (hdn_bnp-qnt_c (w_dqleft_plr n_-_pr-we_le))
+ (hd-cmp_u_c
+  v_vp_mdl-p_le
+  (hd-cmp_u_c
+   (v_n3s-bse_ilr v_cp_prop_le)
+   (hd-cmp_u_c
+    cm_np-vp_that_le
+    (flr-hd_nwh-nc_c
+     (hd-cmp_u_c
+      p_np_i-reg_le
+      (sp-hd_n_c
+       d_-_the_le
+       (hdn-aj_redrel_c
+        (n_ms-cnt_ilr n_-_mc_le)
+        (hd-cmp_u_c
+         p_np_i-nm-poss_le
+         (hdn_bnp_c (n_ms-cnt_ilr n_-_mc_le))))))
+     (sb-hd_nmc_c
+      (hdn-np_app-idf_c
+       (hdn_bnp-qnt_c (hd-cmp_u_c
+                       n_-_pr_le
+                       (w_comma_plr aj_-_i_le)))
+       (hdn_bnp-qnt_c (hdn-aj_rc_c
+                       (hdn_optcmp_c n_-_pr_le)
+                       (flr-hd_rel-fin_c
+                        (hdn_bnp-qnt_c n_-_pr-rel-what_le)
+                        (sb-hd_nmc_c
+                         (hdn_bnp-qnt_c n_-_pr-he_le)
+                         (hd-cmp_u_c
+                          (hd-cmp_u_c
+                           (v_aux-advadd_dlr v_vp_mdl-p-pst_le)
+                           av_-_s-not_le)
+                          (hd-cmp_u_c
+                           (v_n3s-bse_ilr v_vp_seq_le)
+                           (hd-cmp_u_c
+                            cm_vp_to_le
+                            (hd-aj_int-sl_c
+                             (hd_optcmp_c (v_n3s-bse_ilr v_np*_le))
+                             (hd_xcmp_c (w_comma_plr p_np_i_le)))))))))))
+      (hd-cmp_u_c
+       v_vp_had_le
+       (hd-cmp_u_c
+        v_prd_been_le
+        (hd_xaj-int-vp_c (hd-cmp_u_c
+                          (hd_optcmp_c (v_pas_odlr v_p-np_le))
+                          (w_period_plr p_np_ptcl_le)))))))))))

@@ -1,0 +1,13 @@
+(sb-hd_mc_c
+ (hdn_bnp-qnt_c n_-_pr-i_le)
+ (hd-cmp_u_c
+  (hd-cmp_u_c
+   (v_n3s-bse_ilr v_np-prd_oeq_le)
+   (sp-hd_n_c
+    d_-_no_le
+    (n_ms-cnt_ilr n_-_mc_le)))
+  (hd-cmp_u_c
+   p_np_i-reg_le
+   (sp-hd_n_c
+    d_-_the_le
+    (w_period_plr (n_ms-cnt_ilr n_-_mc_le))))))

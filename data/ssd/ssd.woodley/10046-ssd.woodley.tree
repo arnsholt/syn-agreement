@@ -1,0 +1,21 @@
+(cl_cnj-frg_c (mrk-nh_cl_c
+               (w_comma-nf_plr c_xp_but_le)
+               (aj-hd_int-inv_c
+                (hd-cmp_u_c
+                 p_np_i-reg_le
+                 (sp-hd_n_c
+                  d_-_the_le
+                  (aj-hdn_norm_c
+                   aj_-_i-ord-one_le
+                   (hdn_optcmp_c (w_comma_plr (n_sg_ilr n_pp_c-plc-of_le))))))
+                (flr-hd_wh-mc_c
+                 pp_-_i-wh_le
+                 (hd-cmp_u_c
+                  (hd-cmp_u_c
+                   (hd-cmp_u_c
+                    (v_aux-sb-inv_dlr (v_aux-advadd_dlr v_vp_did_le))
+                    (hdn_bnp-qnt_c n_-_pr-you_le))
+                   av_-_s-not_le)
+                  (hd-aj_int-unsl_c
+                   (hd_xaj-int-vp_c (hd_optcmp_c (v_n3s-bse_ilr v_pp*_dir_le)))
+                   (w_dqright_plr (w_qmark_plr av_-_i-vp_le))))))))

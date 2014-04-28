@@ -1,0 +1,35 @@
+(cl-cl_crd-t_c
+ (hd-aj_scp-pr_c
+  (sb-hd_mc_c
+   (hdn_bnp-qnt_c (w_dqleft_plr n_-_pr-i_le))
+   (hd_optcmp_c (w_comma_plr (v_n3s-bse_ilr v_np*_le))))
+  (np_voc-post_c (hdn_bnp-pn_c (w_comma_plr (n_sg_ilr n_-_pn_le)))))
+ (cl-cl_crd-im_c
+  (sb-hd_mc_c
+   (hdn_bnp-qnt_c n_-_pr-i_le)
+   (hd_optcmp_c (w_semicol_plr (v_n3s-bse_ilr v_np*_le))))
+  (mrk-nh_cl_c
+   c_xp_but_le
+   (cl-cl_crd-t_c
+    (hd-aj_scp-pr_c
+     (sb-hd_mc_c
+      (hdn_bnp-qnt_c n_-_pr-it_le)
+      (hd-cmp_u_c
+       (v_pst_olr v_np*_le)
+       (hdn_bnp-qnt_c (w_comma_plr n_-_pr-me_le))))
+     (np_voc-post_c (hdn_bnp-pn_c (w_comma_plr (n_sg_ilr n_-_pn_le)))))
+    (mrk-nh_cl_c
+     c_xp_and_le
+     (sb-hd_mc_c
+      n_-_pr-there-x_le
+      (hd_optcmp_c (hd-cmp_u_c
+                    v_np-xp_is-cx_le
+                    (sp-hd_n_c
+                     d_-_no_le
+                     (hdn-aj_rc_c
+                      (hdn_optcmp_c (n_ms-cnt_ilr n_pp_mc-of-ns_le))
+                      (cl_rc-instr_c (hd-cmp_u_c
+                                      cm_vp_to_le
+                                      (hd-cmp_u_c
+                                       (v_n3s-bse_ilr v_np_le)
+                                       (hdn_bnp-qnt_c (w_period_plr n_-_pr-it_le)))))))))))))))
