@@ -7,11 +7,10 @@ license: http://creativecommons.org/licenses/by-sa/3.0/
 Python version >= 2.4 required
 '''
 
-#try:
-#    import numpy as N
-#except ImportError:
-#    N = None
-N = None
+try:
+    import numpy as N
+except ImportError:
+    N = None
 
 def nominal_metric(a,b):
     return a != b
