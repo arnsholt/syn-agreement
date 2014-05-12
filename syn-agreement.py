@@ -236,7 +236,6 @@ def pairwise_jaccard(*sentence_lists):
         tokens += l
 
     score = jacc/tokens
-    print tokens
     return {'UAS': score, 'LAS': score, 'lbl': score, 'ignored': ignored}
 
 metrics = {'plain': lambda a, b: delta(a,b)**2,
