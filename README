@@ -1,6 +1,8 @@
 This package requires one more library, in addition to the files shipped with
 the program: Tim Henderson's Zhang-Shasha library, available at
-https://github.com/timtadh/zhang-shasha (known to work with revision cb1f777).
+https://github.com/timtadh/zhang-shasha. It is known to work with revision
+138c991, and should work with versions after commit 7c910cc. This includes the
+most recent version on PyPi at the time of writing, version 1.1.
 
 SYNOPSIS:
     syn-agreement.py [--tree|--conll] [--acc] [--metric=plain|diff|norm|all] fileA fileB
@@ -62,6 +64,17 @@ PHRASE STRUCTURE FORMAT:
 
     The program then expects the tree to be stored *delexicalised* as follows:
         (S (NP P) (VP V (NP D N)))
+
+BUGS
+    Probably. If you find any, please create an issue in the GitHub repository
+    at <https://github.com/arnsholt/syn-agreement/issues> or contact the
+    author by email.
+
+AUTHOR
+    Arne Skjærholt <arnsholt@gmail.com>
+
+    Also, many thanks to Andreas Peldszus for invaluable help with finding and
+    debugging issues before the initial realease of the code.
 
 LICENCES:
     The files syn-agreement.py and conll.py are (c) 2014 Arne Skjærholt and
