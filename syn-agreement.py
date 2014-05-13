@@ -281,7 +281,7 @@ if '--dirs' not in options:
 
     corpora = [corpusA, corpusB]
 else:
-    corpora = aggregate(*args)
+    corpora = aggregate(*[os.path.normpath(dir) for dir in args])
 
 if '--acc' in options:
     if '--tree' in options:
