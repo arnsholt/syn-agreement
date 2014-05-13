@@ -15,7 +15,7 @@ from nltk.tree import Tree
 from numpy import empty
 import os
 import sys
-from zss.compare import distance
+from zss.compare import simple_distance as distance
 
 sys.stdout = codecs.getwriter('UTF-8')(sys.stdout)
 
