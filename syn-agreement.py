@@ -41,7 +41,7 @@ def delta_conll(a, b):
 
 def delta_tree(a, b):
     return float(distance(a, b,
-                          get_label=lambda t: t.node,
+                          get_label=lambda t: t.label(),
                           get_children=lambda t: t,
                           label_dist=strdist))
 
@@ -59,7 +59,7 @@ def read_tree(file):
     def munge(t):
         if type(t) == Tree:
             toks = t.leaves()
-            t = Tree(t.node, [munge(child) for child in t])
+            t = Tree(t.label(), [munge(child) for child in t])
             setattr(t, "tokens", toks)
             return t
         else:
@@ -179,11 +179,11 @@ def trees(dir):
 def jaccard(a, b):
     def number(tree):
         if len(tree) > 0:
-            return Tree(tree.node, [number(child) for child in tree])
+            return Tree(tree.label(), [number(child) for child in tree])
         else:
             r = i[0]
             i[0] += 1
-            return Tree(tree.node, [r])
+            return Tree(tree.label(), [r])
 
     def bracket_set(tree):
         brackets = set()
@@ -191,7 +191,7 @@ def jaccard(a, b):
             t = tree[position]
             if type(t) != Tree: continue
             (l, r) = (t.leaves()[0], t.leaves()[-1])
-            brackets.add("%d,%d,%s"%(l, r, t.node))
+            brackets.add("%d,%d,%s"%(l, r, t.label()))
         return brackets
 
     # XXX: Silly hack to share state with number(), since I don't have time to
@@ -266,7 +266,7 @@ elif '--tree' in options:
     aggregate   = aggregate_tree
     # Because NLTK's trees aren't normally hashable and I'm too lazy to
     # convert everything into an ImmutableTree (which is).
-    Tree.__hash__ = lambda t: hash( (t.node, tuple(t)) )
+    Tree.__hash__ = lambda t: hash( (t.label(), tuple(t)) )
 else:
     read_corpus = read_conll
     delta       = delta_conll
