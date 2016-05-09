@@ -47,6 +47,30 @@ DESCRIPTION:
 
         If the --acc option is also passed, pairwise accuracies are computed.
 
+WEIRD RESULTS ON SMALL DATA SETS
+    During initial testing to make sure everything is working, it's common to
+    run the tool on very small data sets; if the data set is extremely small
+    (more precisely, a single sentence), the tool will return correct results
+    that are nonetheless counter-intuitive.
+
+    First, we note that alpha is defined to be 1 - Do/De, where the observed
+    distance Do is the mean distance between all pairs of annotations for the
+    same sentence (that is, for all sentences compute mean distance between
+    annotations of the sentence; Do is the mean of these means), and De is the
+    mean distance between all possible pairs of annotations.
+
+    Now, if the data set being processed consists of a set of annotations for
+    a single sentence, where at least one annotation differs from the others,
+    alpha will be 0. This is because the set of pairs within sentences and the
+    set of all possible pairs will be identical, which in turn means that
+    Do=De, and thus Do/De=1 and alpha=0.
+
+    If the data set is a set of annotations for a single sentence, and all the
+    annotations are identical (because the tool is passed the same
+    single-sentence file as corpusA and corpusB, for example), the program
+    will terminate with a ZeroDivisionError. This is because all the trees in
+    the data are identical, which yields De=0 and thus alpha being undefined.
+
 PHRASE STRUCTURE FORMAT:
     Assume we have the following tree for the sentence "I saw the dog":
                        S
