@@ -48,8 +48,24 @@ def delta_tree(a, b):
 def read_conll(file):
     return conll.read_corpus(file)
 
+# This is a dummy subclass of list. We need to return one of these from
+# read_tree because aggregate_tree needs to receive an object which it can set
+# new attributes on, and you can't do that on instances of built-in classes
+# (but you can on user-defined subclasses of them. Python internals
+# weirdness.).
+class FiddlyList(list): pass
+
 def read_tree(file):
-    return BracketParseCorpusReader(".", file).parsed_sents()
+    def munge(t):
+        if type(t) == Tree:
+            toks = t.leaves()
+            t = Tree(t.node, [munge(child) for child in t])
+            setattr(t, "tokens", toks)
+            return t
+        else:
+            return Tree(t, [])
+
+    return FiddlyList(munge(t) for t in BracketParseCorpusReader(".", file).parsed_sents())
 
 def aggregate_conll(*dirnames):
     dirs = {dir: conlls(dir) for dir in dirnames}
@@ -143,21 +159,12 @@ def aggregate_tree(*dirnames):
         lengths[name] = length
 
     def conjoin(annotator, *corpora):
-        def munge(t):
-            if type(t) == Tree:
-                toks = t.leaves()
-                t = Tree(t.node, [munge(child) for child in t])
-                setattr(t, "tokens", toks)
-                return t
-            else:
-                return Tree(t, [])
-
         catted = []
         for name, corpus in zip(uniques, corpora):
             if corpus is None:
                 catted += [None] * lengths[name]
             else:
-                catted += [munge(t) for t in corpus]
+                catted += corpus
 
         return catted
 
